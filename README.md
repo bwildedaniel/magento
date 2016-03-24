@@ -13,3 +13,6 @@ sudo docker run -d -P -e VIRTUAL_HOST=magento.dev.guptadaniel.com -v /magento/ht
 
 //cloud9
 sudo docker run -e VIRTUAL_HOST=cloud9.dev.guptadaniel.com  --name cloud9_beta -it -d -P -v /:/workspace/ kdelfour/cloud9-docker
+
+//kibana
+sudo docker run --name some-kibana -e VIRTUAL_HOST=kibana.dev.guptadaniel.com -e ELASTICSEARCH_URL=http://some-elasticsearch:9200 -P -d kibana
