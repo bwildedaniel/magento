@@ -15,5 +15,11 @@ sudo docker run -d -P -e MAGENTO_PASS="hMXaTPwIlAUPyu7lF63c" -e MYSQL_PASS="hMXa
 //cloud9
 sudo docker run -e VIRTUAL_HOST=cloud9.dev.guptadaniel.com  --name cloud9_beta -it -d -P -v /:/workspace/ kdelfour/cloud9-docker
 
-//kibana
-sudo docker run --name some-kibana -e VIRTUAL_HOST=kibana.dev.guptadaniel.com -e ELASTICSEARCH_URL=http://some-elasticsearch:9200 -P -d kibana
+//symlink certs (examples, paths chopped)
+sudo ln -s /etc/letsencrypt/live/CERTPATH 
+sudo ln -s /etc/letsencrypt/live/KEYPATH
+
+//passwords (examples)
+//you have to restart the docker container running the proxy after adding a user to the passwords dir
+sudo htpasswd -cb /proxy/passwords/cloud9.devweb.luftgrubba.com bruce passtring
+sudo htpasswd -cb /proxy/passwords/cloud9_magento.devweb.luftgrubba.com bilalazhar passtring
