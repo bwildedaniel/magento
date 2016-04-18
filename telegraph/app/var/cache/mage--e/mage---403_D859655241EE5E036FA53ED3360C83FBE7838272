@@ -200,6 +200,14 @@
 </li>
 </ul>
 </li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="http://dev.telegraphhealth.com/index.php/admin/system_config/edit/section/wordpress/key/$system_config/edit$/"   class=""><span>WordPress</span></a>
+<ul >
+<li  class="  level1"> <a href="http://dev.telegraphhealth.com/index.php/admin/wordpress/login/key/$wordpress/login$/"   class=""><span>WordPress &raquo;</span></a>
+</li>
+<li  class="  last level1"> <a href="http://dev.telegraphhealth.com/index.php/admin/system_config/edit/section/wordpress/key/$system_config/edit$/"   class=""><span>Settings</span></a>
+</li>
+</ul>
+</li>
 <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>System</span></a>
 <ul >
 <li  class="  level1"> <a href="http://dev.telegraphhealth.com/index.php/admin/system_account/index/key/$system_account/index$/"   class=""><span>My Account</span></a>

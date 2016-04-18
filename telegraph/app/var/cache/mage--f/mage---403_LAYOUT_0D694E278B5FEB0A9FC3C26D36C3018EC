@@ -224,6 +224,24 @@
 <reference name="notifications">
    <block type="tax/adminhtml_notifications" name="tax_notifications" template="tax/notifications.phtml"/>
 </reference>
+<reference name="before_body_end">
+   <block type="core/text" name="wordpress.adminLinks">
+      <action method="setText">
+         <text>
+						
+						&lt;script type=&quot;text/javascript&quot;&gt;
+							document.observe(&apos;dom:loaded&apos;, function() {$(&apos;nav&apos;).select(&apos;li.level1&apos;).each(function(l, ind) {
+								if (l.innerHTML.indexOf(&apos;WordPress&apos;) &gt;= 0) {
+									l.select(&apos;a&apos;).first().writeAttribute(&apos;target&apos;, &apos;_blank&apos;);
+								}});
+							});
+						&lt;/script&gt;
+						
+					</text>
+      </action>
+   </block>
+   <block type="wordpress/adminhtml_update" name="wp.update"/>
+</reference>
 <reference name="content">
    <block type="adminhtml/dashboard" name="dashboard">
       <block type="adminhtml/store_switcher" name="store_switcher" as="store_switcher" template="store/switcher.phtml">
