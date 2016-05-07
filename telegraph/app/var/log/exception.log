@@ -1,0 +1,78 @@
+2016-05-06T20:47:24+00:00 ERR (3): 
+exception 'Mage_Api2_Exception' with message 'Request does not match any route.' in /var/www/html/app/code/core/Mage/Api2/Model/Router.php:87
+Stack trace:
+#0 /var/www/html/app/code/core/Mage/Api2/Model/Server.php(198): Mage_Api2_Model_Router->route(Object(Mage_Api2_Model_Request))
+#1 /var/www/html/app/code/core/Mage/Api2/Model/Server.php(105): Mage_Api2_Model_Server->_route(Object(Mage_Api2_Model_Request))
+#2 /var/www/html/api.php(67): Mage_Api2_Model_Server->run()
+#3 {main}
+2016-05-06T20:47:26+00:00 ERR (3): 
+exception 'Mage_Api2_Exception' with message 'Request does not match any route.' in /var/www/html/app/code/core/Mage/Api2/Model/Router.php:87
+Stack trace:
+#0 /var/www/html/app/code/core/Mage/Api2/Model/Server.php(198): Mage_Api2_Model_Router->route(Object(Mage_Api2_Model_Request))
+#1 /var/www/html/app/code/core/Mage/Api2/Model/Server.php(105): Mage_Api2_Model_Server->_route(Object(Mage_Api2_Model_Request))
+#2 /var/www/html/api.php(67): Mage_Api2_Model_Server->run()
+#3 {main}
+2016-05-06T20:47:27+00:00 ERR (3): 
+exception 'Mage_Api2_Exception' with message 'Request does not match any route.' in /var/www/html/app/code/core/Mage/Api2/Model/Router.php:87
+Stack trace:
+#0 /var/www/html/app/code/core/Mage/Api2/Model/Server.php(198): Mage_Api2_Model_Router->route(Object(Mage_Api2_Model_Request))
+#1 /var/www/html/app/code/core/Mage/Api2/Model/Server.php(105): Mage_Api2_Model_Server->_route(Object(Mage_Api2_Model_Request))
+#2 /var/www/html/api.php(67): Mage_Api2_Model_Server->run()
+#3 {main}
+2016-05-06T20:47:28+00:00 ERR (3): 
+exception 'Mage_Api2_Exception' with message 'Request does not match any route.' in /var/www/html/app/code/core/Mage/Api2/Model/Router.php:87
+Stack trace:
+#0 /var/www/html/app/code/core/Mage/Api2/Model/Server.php(198): Mage_Api2_Model_Router->route(Object(Mage_Api2_Model_Request))
+#1 /var/www/html/app/code/core/Mage/Api2/Model/Server.php(105): Mage_Api2_Model_Server->_route(Object(Mage_Api2_Model_Request))
+#2 /var/www/html/api.php(67): Mage_Api2_Model_Server->run()
+#3 {main}
+2016-05-06T20:54:22+00:00 ERR (3): 
+exception 'Mage_Api2_Exception' with message 'Request does not match any route.' in /var/www/html/app/code/core/Mage/Api2/Model/Router.php:87
+Stack trace:
+#0 /var/www/html/app/code/core/Mage/Api2/Model/Server.php(198): Mage_Api2_Model_Router->route(Object(Mage_Api2_Model_Request))
+#1 /var/www/html/app/code/core/Mage/Api2/Model/Server.php(105): Mage_Api2_Model_Server->_route(Object(Mage_Api2_Model_Request))
+#2 /var/www/html/api.php(67): Mage_Api2_Model_Server->run()
+#3 {main}
+2016-05-06T20:54:23+00:00 ERR (3): 
+exception 'Mage_Api2_Exception' with message 'Request does not match any route.' in /var/www/html/app/code/core/Mage/Api2/Model/Router.php:87
+Stack trace:
+#0 /var/www/html/app/code/core/Mage/Api2/Model/Server.php(198): Mage_Api2_Model_Router->route(Object(Mage_Api2_Model_Request))
+#1 /var/www/html/app/code/core/Mage/Api2/Model/Server.php(105): Mage_Api2_Model_Server->_route(Object(Mage_Api2_Model_Request))
+#2 /var/www/html/api.php(67): Mage_Api2_Model_Server->run()
+#3 {main}
+2016-05-06T21:04:46+00:00 ERR (3): 
+exception 'Mage_Api2_Exception' with message 'Request does not match any route.' in /var/www/html/app/code/core/Mage/Api2/Model/Router.php:87
+Stack trace:
+#0 /var/www/html/app/code/core/Mage/Api2/Model/Server.php(198): Mage_Api2_Model_Router->route(Object(Mage_Api2_Model_Request))
+#1 /var/www/html/app/code/core/Mage/Api2/Model/Server.php(105): Mage_Api2_Model_Server->_route(Object(Mage_Api2_Model_Request))
+#2 /var/www/html/api.php(67): Mage_Api2_Model_Server->run()
+#3 {main}
+2016-05-06T21:06:07+00:00 ERR (3): 
+exception 'Mage_Api2_Exception' with message 'Request does not match any route.' in /var/www/html/app/code/core/Mage/Api2/Model/Router.php:87
+Stack trace:
+#0 /var/www/html/app/code/core/Mage/Api2/Model/Server.php(198): Mage_Api2_Model_Router->route(Object(Mage_Api2_Model_Request))
+#1 /var/www/html/app/code/core/Mage/Api2/Model/Server.php(105): Mage_Api2_Model_Server->_route(Object(Mage_Api2_Model_Request))
+#2 /var/www/html/api.php(67): Mage_Api2_Model_Server->run()
+#3 {main}
+2016-05-06T21:08:08+00:00 ERR (3): 
+exception 'Mage_Api2_Exception' with message 'Access denied' in /var/www/html/app/code/core/Mage/Api2/Model/Server.php:217
+Stack trace:
+#0 /var/www/html/app/code/core/Mage/Api2/Model/Server.php(106): Mage_Api2_Model_Server->_allow(Object(Mage_Api2_Model_Request), Object(Mage_Api2_Model_Auth_User_Guest))
+#1 /var/www/html/api.php(67): Mage_Api2_Model_Server->run()
+#2 {main}
+2016-05-06T21:08:10+00:00 ERR (3): 
+exception 'Mage_Api2_Exception' with message 'Access denied' in /var/www/html/app/code/core/Mage/Api2/Model/Server.php:217
+Stack trace:
+#0 /var/www/html/app/code/core/Mage/Api2/Model/Server.php(106): Mage_Api2_Model_Server->_allow(Object(Mage_Api2_Model_Request), Object(Mage_Api2_Model_Auth_User_Guest))
+#1 /var/www/html/api.php(67): Mage_Api2_Model_Server->run()
+#2 {main}
+2016-05-07T00:29:43+00:00 ERR (3): 
+exception 'Mage_Api2_Exception' with message 'Invalid attribute "sku": The value of attribute "SKU" must be unique' in /var/www/html/app/code/core/Mage/Api2/Model/Resource.php:650
+Stack trace:
+#0 /var/www/html/app/code/core/Mage/Catalog/Model/Api2/Product/Rest/Admin/V1.php(175): Mage_Api2_Model_Resource->_critical('Invalid attribu...', 400)
+#1 /var/www/html/app/code/core/Mage/Api2/Model/Resource.php(226): Mage_Catalog_Model_Api2_Product_Rest_Admin_V1->_create(Array)
+#2 /var/www/html/app/code/core/Mage/Api2/Model/Dispatcher.php(74): Mage_Api2_Model_Resource->dispatch()
+#3 /var/www/html/app/code/core/Mage/Api2/Model/Server.php(239): Mage_Api2_Model_Dispatcher->dispatch(Object(Mage_Api2_Model_Request), Object(Mage_Api2_Model_Response))
+#4 /var/www/html/app/code/core/Mage/Api2/Model/Server.php(107): Mage_Api2_Model_Server->_dispatch(Object(Mage_Api2_Model_Request), Object(Mage_Api2_Model_Response), Object(Mage_Api2_Model_Auth_User_Admin))
+#5 /var/www/html/api.php(67): Mage_Api2_Model_Server->run()
+#6 {main}
