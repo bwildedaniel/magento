@@ -1,0 +1,96 @@
+    #mask{
+  display: block;
+  height: 100% !important;
+  opacity: 0.8 !important;
+  width: 100% !important;
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 9000;
+  background-color: #000;
+}
+ 
+#boxes .window {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 440px;
+  height: 200px;
+  display: none;
+  z-index: 9999;
+  padding: 20px;
+  border-radius: 15px;
+  text-align: center;
+}
+ 
+#boxes #dialog {
+  background-color: rgb(235, 235, 235) !important;
+  font-family: "Segoe UI Light",sans-serif;
+  font-size: 15pt;
+  height: 300px;
+  padding: 10px;
+  width: 500px;
+  left: 50% !important;
+  margin-left: -207px !important;
+}
+ 
+#popupfoot {
+  font-size: 16pt;
+  position: absolute;
+  bottom: 0px;
+  width: 250px;
+  left: 250px;
+}
+
+/*popup design*/
+
+.close.agree {
+  background: none repeat scroll 0 0 rgb(226, 140, 52);
+  border: 2px solid rgb(255, 198, 139);
+  border-radius: 21px;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  padding: 2px 11px;
+  position: absolute;
+  right: -6px;
+  top: -12px;
+  z-index: 9999;
+}
+
+.popupsubscriber{
+  border: none !important;
+  margin: 25px 140px !important;
+  text-align: center !important;
+}
+.block-title {
+  border-top: medium none !important;
+  margin-bottom: 5px !important;
+  padding: 10px 0 0 !important;
+  position: relative !important;
+}
+.popupsubscriber .popuptitle{
+  color: rgb(118, 118, 118);
+  font-size: 20px;
+  font-weight: 500;
+}
+.popupsubscriber button {
+  background: none repeat scroll 0 0 rgb(32, 32, 32) !important;
+  float: none !important;
+  margin: 0 auto !important;
+}
+.popupsubscriber #newsletter {
+  border: 1px solid rgb(168, 168, 168);
+  height: 30px;
+  margin: 15px 0 7px;
+  width: 290px;
+  border-radius: 5px !important;
+}
+.popupsubscriber button:hover {
+  background: #818181 !important;
+  float: none !important;
+  margin: 0 auto !important;
+}
+.popupsubscriber #email-valid {
+  color: rgb(255, 0, 0);
+  font-size: 14px;
+}

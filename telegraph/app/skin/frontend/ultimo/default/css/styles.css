@@ -1448,7 +1448,7 @@ ul.disc ul li { background:url(../images/infortis/_shared/cck/list/bullet-small.
 
 /* Paypal
 -------------------------------------------------------------- */
-.sidebar .paypal-logo { display:block; margin:10px 0; text-align:center; }
+.sidebar .paypal-logo { display:none; margin:10px 0; text-align:center; }
 .sidebar .paypal-logo a { float:none; }
 
 
@@ -3541,3 +3541,29 @@ body.cms-index-index .breadcrumbs { display:none; }
 .section-line:after,
 .section-title:after
 { display:block; content:"."; clear:both; font-size:0; line-height:0; height:0; overflow:hidden; }
+
+a#scroll-to-top {
+    display: none !important;
+}
+
+.header .item-right {
+    float: left;
+    margin-left: 190px;
+    text-align: right;
+}
+
+.item.item-right.block_header_top_right2 {
+    float: right;
+    margin-left: 0px;
+}
+
+.footer .item-left
+{
+float:none;
+}
+
+
+.footer-copyright {
+    text-align: center;
+}
+

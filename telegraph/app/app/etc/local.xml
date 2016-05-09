@@ -11,39 +11,39 @@
  * http://opensource.org/licenses/afl-3.0.php
  * If you did not receive a copy of the license and are unable to
  * obtain it through the world-wide-web, please send an email
- * to license@magentocommerce.com so we can send you a copy immediately.
+ * to license@magento.com so we can send you a copy immediately.
  *
  * DISCLAIMER
  *
  * Do not edit or add to this file if you wish to upgrade Magento to newer
  * versions in the future. If you wish to customize Magento for your
- * needs please refer to http://www.magentocommerce.com for more information.
+ * needs please refer to http://www.magento.com for more information.
  *
- * @category   Mage
- * @package    Mage_Core
- * @copyright  Copyright (c) 2008 Irubin Consulting Inc. DBA Varien (http://www.varien.com)
- * @license    http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+ * @category    Mage
+ * @package     Mage_Core
+ * @copyright   Copyright (c) 2006-2016 X.commerce, Inc. and affiliates (http://www.magento.com)
+ * @license     http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
  */
 -->
 <config>
     <global>
         <install>
-            <date><![CDATA[Thu, 05 May 2016 17:36:12 +0000]]></date>
+            <date><![CDATA[Wed, 27 Apr 2016 16:50:44 -0400]]></date>
         </install>
         <crypt>
-            <key><![CDATA[9789d7a51cfc05570f8f24d4cabc8249]]></key>
+            <key><![CDATA[60dmw6u9tkyycg5ybzwjg03ymhff27ro]]></key>
         </crypt>
         <disable_local_modules>false</disable_local_modules>
         <resources>
             <db>
-                <table_prefix><![CDATA[]]></table_prefix>
+                <table_prefix><![CDATA[mgeg_]]></table_prefix>
             </db>
             <default_setup>
                 <connection>
                     <host><![CDATA[localhost]]></host>
                     <username><![CDATA[magento]]></username>
                     <password><![CDATA[hMXaTPwIlAUPyu7lF63c]]></password>
-                    <dbname><![CDATA[magento]]></dbname>
+                    <dbname><![CDATA[howdy]]></dbname>
                     <initStatements><![CDATA[SET NAMES utf8]]></initStatements>
                     <model><![CDATA[mysql4]]></model>
                     <type><![CDATA[pdo_mysql]]></type>

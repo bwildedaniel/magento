@@ -1,0 +1,2017 @@
+2016-05-05T17:33:56+00:00 DEBUG (7): Array
+(
+    [0] => us1.api.mailchimp.com
+    [__pid] => 28967
+)
+
+2016-05-05T17:33:56+00:00 DEBUG (7): Array
+(
+    [__pid] => 28967
+)
+
+2016-05-05T17:33:56+00:00 DEBUG (7): Array
+(
+    [0] => listsForEmail
+    [__pid] => 28967
+)
+
+2016-05-05T17:33:56+00:00 DEBUG (7): Array
+(
+    [0] => john@demian.com
+    [__pid] => 28967
+)
+
+2016-05-05T17:33:56+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 28967
+)
+
+2016-05-05T17:33:56+00:00 DEBUG (7): Array
+(
+    [0] => Error: You must specify a apikey value for the listsForEmail method, code -90
+    [__pid] => 28967
+)
+
+2016-05-05T17:33:59+00:00 DEBUG (7): Array
+(
+    [0] => us1.api.mailchimp.com
+    [__pid] => 29121
+)
+
+2016-05-05T17:33:59+00:00 DEBUG (7): Array
+(
+    [__pid] => 29121
+)
+
+2016-05-05T17:33:59+00:00 DEBUG (7): Array
+(
+    [0] => listsForEmail
+    [__pid] => 29121
+)
+
+2016-05-05T17:33:59+00:00 DEBUG (7): Array
+(
+    [0] => john@demian.com
+    [__pid] => 29121
+)
+
+2016-05-05T17:33:59+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 29121
+)
+
+2016-05-05T17:33:59+00:00 DEBUG (7): Array
+(
+    [0] => Error: You must specify a apikey value for the listsForEmail method, code -90
+    [__pid] => 29121
+)
+
+2016-05-05T17:35:27+00:00 DEBUG (7): Array
+(
+    [0] => us1.api.mailchimp.com
+    [__pid] => 32961
+)
+
+2016-05-05T17:35:27+00:00 DEBUG (7): Array
+(
+    [__pid] => 32961
+)
+
+2016-05-05T17:35:27+00:00 DEBUG (7): Array
+(
+    [0] => listsForEmail
+    [__pid] => 32961
+)
+
+2016-05-05T17:35:27+00:00 DEBUG (7): Array
+(
+    [0] => john@demian.com
+    [__pid] => 32961
+)
+
+2016-05-05T17:35:27+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 32961
+)
+
+2016-05-05T17:35:27+00:00 DEBUG (7): Array
+(
+    [0] => Error: You must specify a apikey value for the listsForEmail method, code -90
+    [__pid] => 32961
+)
+
+2016-05-05T17:35:30+00:00 DEBUG (7): Array
+(
+    [0] => us1.api.mailchimp.com
+    [__pid] => 33011
+)
+
+2016-05-05T17:35:30+00:00 DEBUG (7): Array
+(
+    [__pid] => 33011
+)
+
+2016-05-05T17:35:30+00:00 DEBUG (7): Array
+(
+    [0] => listsForEmail
+    [__pid] => 33011
+)
+
+2016-05-05T17:35:30+00:00 DEBUG (7): Array
+(
+    [0] => john@demian.com
+    [__pid] => 33011
+)
+
+2016-05-05T17:35:30+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 33011
+)
+
+2016-05-05T17:35:30+00:00 DEBUG (7): Array
+(
+    [0] => Error: You must specify a apikey value for the listsForEmail method, code -90
+    [__pid] => 33011
+)
+
+2016-05-06T03:23:27+00:00 DEBUG (7): Array
+(
+    [0] => us1.api.mailchimp.com
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:27+00:00 DEBUG (7): Array
+(
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:27+00:00 DEBUG (7): Array
+(
+    [0] => getAccountDetails
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:27+00:00 DEBUG (7): Array
+(
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:28+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:28+00:00 DEBUG (7): Array
+(
+    [0] => Error: You must specify a apikey value for the getAccountDetails method, code -90
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:28+00:00 DEBUG (7): Array
+(
+    [0] => us1.api.mailchimp.com
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:28+00:00 DEBUG (7): Array
+(
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:28+00:00 DEBUG (7): Array
+(
+    [0] => lists
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:28+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [1] => 
+    [2] => 25
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:28+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:28+00:00 DEBUG (7): Array
+(
+    [0] => Error: You must specify a apikey value for the lists method, code -90
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:28+00:00 DEBUG (7): Array
+(
+    [0] => us1.api.mailchimp.com
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:28+00:00 DEBUG (7): Array
+(
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:28+00:00 DEBUG (7): Array
+(
+    [0] => listInterestGroupings
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:28+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:29+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:29+00:00 DEBUG (7): Array
+(
+    [0] => Error: You must specify a apikey value for the listInterestGroupings method, code -90
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:29+00:00 DEBUG (7): Array
+(
+    [0] => us1.api.mailchimp.com
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:29+00:00 DEBUG (7): Array
+(
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:29+00:00 DEBUG (7): Array
+(
+    [0] => getAccountDetails
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:29+00:00 DEBUG (7): Array
+(
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:29+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:29+00:00 DEBUG (7): Array
+(
+    [0] => Error: You must specify a apikey value for the getAccountDetails method, code -90
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:29+00:00 DEBUG (7): Array
+(
+    [0] => us1.api.mailchimp.com
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:29+00:00 DEBUG (7): Array
+(
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:29+00:00 DEBUG (7): Array
+(
+    [0] => ping
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:29+00:00 DEBUG (7): Array
+(
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:29+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:29+00:00 DEBUG (7): Array
+(
+    [0] => Error: You must specify a apikey value for the ping method, code -90
+    [__pid] => 43890
+)
+
+2016-05-06T03:23:36+00:00 DEBUG (7): Array
+(
+    [0] => us1.api.mailchimp.com
+    [__pid] => 44092
+)
+
+2016-05-06T03:23:36+00:00 DEBUG (7): Array
+(
+    [__pid] => 44092
+)
+
+2016-05-06T03:23:36+00:00 DEBUG (7): Array
+(
+    [0] => listInterestGroupings
+    [__pid] => 44092
+)
+
+2016-05-06T03:23:36+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 44092
+)
+
+2016-05-06T03:23:36+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 44092
+)
+
+2016-05-06T03:23:36+00:00 DEBUG (7): Array
+(
+    [0] => Error: You must specify a apikey value for the listInterestGroupings method, code -90
+    [__pid] => 44092
+)
+
+2016-05-06T03:25:45+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 47825
+)
+
+2016-05-06T03:25:45+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 47825
+)
+
+2016-05-06T03:25:45+00:00 DEBUG (7): Array
+(
+    [0] => ping
+    [__pid] => 47825
+)
+
+2016-05-06T03:25:45+00:00 DEBUG (7): Array
+(
+    [__pid] => 47825
+)
+
+2016-05-06T03:25:45+00:00 DEBUG (7): Array
+(
+    [0] => Everything's Chimpy!
+    [__pid] => 47825
+)
+
+2016-05-06T03:25:45+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 47825
+)
+
+2016-05-06T03:25:45+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 47825
+)
+
+2016-05-06T03:25:45+00:00 DEBUG (7): Array
+(
+    [0] => lists
+    [__pid] => 47825
+)
+
+2016-05-06T03:25:45+00:00 DEBUG (7): Array
+(
+    [__pid] => 47825
+)
+
+2016-05-06T03:25:45+00:00 DEBUG (7): Array
+(
+    [total] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => cda0795cce
+                    [web_id] => 350389
+                    [name] => Newsletter
+                    [date_created] => 2016-04-26 06:12:11
+                    [email_type_option] => 
+                    [use_awesomebar] => 1
+                    [default_from_name] => Telegraph Health Center
+                    [default_from_email] => info@telegraphhealth.com
+                    [default_subject] => 
+                    [default_language] => en
+                    [list_rating] => 3
+                    [subscribe_url_short] => http://eepurl.com/bZmZpT
+                    [subscribe_url_long] => http://telegraphhealth.us11.list-manage.com/subscribe?u=b3b3ab81c9458a7ce1547f562&id=cda0795cce
+                    [beamer_address] => us11-2dc1a548cc-073f78720a@inbound.mailchimp.com
+                    [visibility] => pub
+                    [stats] => Array
+                        (
+                            [member_count] => 13473
+                            [unsubscribe_count] => 0
+                            [cleaned_count] => 0
+                            [member_count_since_send] => 3
+                            [unsubscribe_count_since_send] => 0
+                            [cleaned_count_since_send] => 0
+                            [campaign_count] => 0
+                            [grouping_count] => 0
+                            [group_count] => 0
+                            [merge_var_count] => 3
+                            [avg_sub_rate] => 0
+                            [avg_unsub_rate] => 0
+                            [target_sub_rate] => 0
+                            [open_rate] => 0
+                            [click_rate] => 0
+                        )
+
+                    [modules] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [__pid] => 47825
+)
+
+2016-05-06T03:25:47+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 47849
+)
+
+2016-05-06T03:25:47+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 47849
+)
+
+2016-05-06T03:25:47+00:00 DEBUG (7): Array
+(
+    [0] => getAccountDetails
+    [__pid] => 47849
+)
+
+2016-05-06T03:25:47+00:00 DEBUG (7): Array
+(
+    [__pid] => 47849
+)
+
+2016-05-06T03:25:47+00:00 DEBUG (7): Array
+(
+    [user_id] => b3b3ab81c9458a7ce1547f562
+    [username] => Telegraph Health Center
+    [member_since] => 2015-05-29 01:41:13
+    [is_approved] => 
+    [is_trial] => 
+    [has_activated] => 1
+    [timezone] => US/Pacific
+    [plan_type] => monthly
+    [plan_high] => 25000
+    [plan_low] => 12801
+    [plan_start_date] => 2016-02-11
+    [pending_monthly] => 
+    [first_payment] => 2015-07-07 21:31:46
+    [last_payment] => 2016-04-11 05:56:15
+    [times_logged_in] => 0
+    [last_login] => 2016-05-06 03:25:07
+    [affiliate_link] => http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=b3b3ab81c9458a7ce1547f562&afl=1
+    [contact] => Array
+        (
+            [fname] => Telegraph Health Center
+            [lname] => admin
+            [email] => admin@telegraphhealth.com
+            [company] => Telegraph Health Center
+            [address1] => 3003 Telegraph Ave
+            [address2] => 
+            [city] => Oakland
+            [state] => CA
+            [zip] => 94609
+            [country] => USA
+            [url] => http://telegraphhealth.com
+            [phone] => +1 (510) 842-5999
+            [fax] => 
+        )
+
+    [modules] => Array
+        (
+        )
+
+    [orders] => Array
+        (
+            [0] => Array
+                (
+                    [order_id] => 302029
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2015-07-07 21:31:46
+                    [credits_used] => 0
+                )
+
+            [1] => Array
+                (
+                    [order_id] => 388425
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2015-08-07 05:37:04
+                    [credits_used] => 0
+                )
+
+            [2] => Array
+                (
+                    [order_id] => 503833
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2015-09-07 05:40:21
+                    [credits_used] => 0
+                )
+
+            [3] => Array
+                (
+                    [order_id] => 661025
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2015-10-07 05:57:19
+                    [credits_used] => 0
+                )
+
+            [4] => Array
+                (
+                    [order_id] => 825225
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2015-11-07 05:55:05
+                    [credits_used] => 0
+                )
+
+            [5] => Array
+                (
+                    [order_id] => 996781
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2015-12-07 05:48:19
+                    [credits_used] => 0
+                )
+
+            [6] => Array
+                (
+                    [order_id] => 1147189
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2016-01-07 05:57:01
+                    [credits_used] => 0
+                )
+
+            [7] => Array
+                (
+                    [order_id] => 1297529
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2016-02-07 05:51:51
+                    [credits_used] => 0
+                )
+
+            [8] => Array
+                (
+                    [order_id] => 1321713
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2016-02-11 21:25:59
+                    [credits_used] => 0
+                )
+
+            [9] => Array
+                (
+                    [order_id] => 1473857
+                    [type] => Addon
+                    [amount] => 95
+                    [date] => 2016-03-11 05:59:18
+                    [credits_used] => 0
+                )
+
+            [10] => Array
+                (
+                    [order_id] => 1624649
+                    [type] => Addon
+                    [amount] => 150
+                    [date] => 2016-04-11 05:56:15
+                    [credits_used] => 0
+                )
+
+        )
+
+    [rewards] => Array
+        (
+            [referrals_this_month] => 0
+            [notify_on] => 
+            [notify_email] => 
+            [credits] => Array
+                (
+                    [this_month] => 0
+                    [total_earned] => 0
+                    [remaining] => 0
+                )
+
+            [inspections] => Array
+                (
+                    [this_month] => 0
+                    [total_earned] => 0
+                    [remaining] => 0
+                )
+
+            [referrals] => Array
+                (
+                )
+
+            [applied] => Array
+                (
+                )
+
+        )
+
+    [__pid] => 47849
+)
+
+2016-05-06T03:25:47+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 47849
+)
+
+2016-05-06T03:25:47+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 47849
+)
+
+2016-05-06T03:25:47+00:00 DEBUG (7): Array
+(
+    [0] => lists
+    [__pid] => 47849
+)
+
+2016-05-06T03:25:47+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [1] => 
+    [2] => 25
+    [__pid] => 47849
+)
+
+2016-05-06T03:25:48+00:00 DEBUG (7): Array
+(
+    [total] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => cda0795cce
+                    [web_id] => 350389
+                    [name] => Newsletter
+                    [date_created] => 2016-04-26 06:12:11
+                    [email_type_option] => 
+                    [use_awesomebar] => 1
+                    [default_from_name] => Telegraph Health Center
+                    [default_from_email] => info@telegraphhealth.com
+                    [default_subject] => 
+                    [default_language] => en
+                    [list_rating] => 3
+                    [subscribe_url_short] => http://eepurl.com/bZmZpT
+                    [subscribe_url_long] => http://telegraphhealth.us11.list-manage.com/subscribe?u=b3b3ab81c9458a7ce1547f562&id=cda0795cce
+                    [beamer_address] => us11-2dc1a548cc-073f78720a@inbound.mailchimp.com
+                    [visibility] => pub
+                    [stats] => Array
+                        (
+                            [member_count] => 13473
+                            [unsubscribe_count] => 0
+                            [cleaned_count] => 0
+                            [member_count_since_send] => 3
+                            [unsubscribe_count_since_send] => 0
+                            [cleaned_count_since_send] => 0
+                            [campaign_count] => 0
+                            [grouping_count] => 0
+                            [group_count] => 0
+                            [merge_var_count] => 3
+                            [avg_sub_rate] => 0
+                            [avg_unsub_rate] => 0
+                            [target_sub_rate] => 0
+                            [open_rate] => 0
+                            [click_rate] => 0
+                        )
+
+                    [modules] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [__pid] => 47849
+)
+
+2016-05-06T03:25:48+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 47849
+)
+
+2016-05-06T03:25:48+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 47849
+)
+
+2016-05-06T03:25:48+00:00 DEBUG (7): Array
+(
+    [0] => listInterestGroupings
+    [__pid] => 47849
+)
+
+2016-05-06T03:25:48+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 47849
+)
+
+2016-05-06T03:25:48+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 47849
+)
+
+2016-05-06T03:25:48+00:00 DEBUG (7): Array
+(
+    [0] => Error: Invalid MailChimp List ID: , code 200
+    [__pid] => 47849
+)
+
+2016-05-06T03:25:48+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 47849
+)
+
+2016-05-06T03:25:48+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 47849
+)
+
+2016-05-06T03:25:48+00:00 DEBUG (7): Array
+(
+    [0] => getAccountDetails
+    [__pid] => 47849
+)
+
+2016-05-06T03:25:48+00:00 DEBUG (7): Array
+(
+    [__pid] => 47849
+)
+
+2016-05-06T03:25:49+00:00 DEBUG (7): Array
+(
+    [user_id] => b3b3ab81c9458a7ce1547f562
+    [username] => Telegraph Health Center
+    [member_since] => 2015-05-29 01:41:13
+    [is_approved] => 
+    [is_trial] => 
+    [has_activated] => 1
+    [timezone] => US/Pacific
+    [plan_type] => monthly
+    [plan_high] => 25000
+    [plan_low] => 12801
+    [plan_start_date] => 2016-02-11
+    [pending_monthly] => 
+    [first_payment] => 2015-07-07 21:31:46
+    [last_payment] => 2016-04-11 05:56:15
+    [times_logged_in] => 0
+    [last_login] => 2016-05-06 03:25:07
+    [affiliate_link] => http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=b3b3ab81c9458a7ce1547f562&afl=1
+    [contact] => Array
+        (
+            [fname] => Telegraph Health Center
+            [lname] => admin
+            [email] => admin@telegraphhealth.com
+            [company] => Telegraph Health Center
+            [address1] => 3003 Telegraph Ave
+            [address2] => 
+            [city] => Oakland
+            [state] => CA
+            [zip] => 94609
+            [country] => USA
+            [url] => http://telegraphhealth.com
+            [phone] => +1 (510) 842-5999
+            [fax] => 
+        )
+
+    [modules] => Array
+        (
+        )
+
+    [orders] => Array
+        (
+            [0] => Array
+                (
+                    [order_id] => 302029
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2015-07-07 21:31:46
+                    [credits_used] => 0
+                )
+
+            [1] => Array
+                (
+                    [order_id] => 388425
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2015-08-07 05:37:04
+                    [credits_used] => 0
+                )
+
+            [2] => Array
+                (
+                    [order_id] => 503833
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2015-09-07 05:40:21
+                    [credits_used] => 0
+                )
+
+            [3] => Array
+                (
+                    [order_id] => 661025
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2015-10-07 05:57:19
+                    [credits_used] => 0
+                )
+
+            [4] => Array
+                (
+                    [order_id] => 825225
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2015-11-07 05:55:05
+                    [credits_used] => 0
+                )
+
+            [5] => Array
+                (
+                    [order_id] => 996781
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2015-12-07 05:48:19
+                    [credits_used] => 0
+                )
+
+            [6] => Array
+                (
+                    [order_id] => 1147189
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2016-01-07 05:57:01
+                    [credits_used] => 0
+                )
+
+            [7] => Array
+                (
+                    [order_id] => 1297529
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2016-02-07 05:51:51
+                    [credits_used] => 0
+                )
+
+            [8] => Array
+                (
+                    [order_id] => 1321713
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2016-02-11 21:25:59
+                    [credits_used] => 0
+                )
+
+            [9] => Array
+                (
+                    [order_id] => 1473857
+                    [type] => Addon
+                    [amount] => 95
+                    [date] => 2016-03-11 05:59:18
+                    [credits_used] => 0
+                )
+
+            [10] => Array
+                (
+                    [order_id] => 1624649
+                    [type] => Addon
+                    [amount] => 150
+                    [date] => 2016-04-11 05:56:15
+                    [credits_used] => 0
+                )
+
+        )
+
+    [rewards] => Array
+        (
+            [referrals_this_month] => 0
+            [notify_on] => 
+            [notify_email] => 
+            [credits] => Array
+                (
+                    [this_month] => 0
+                    [total_earned] => 0
+                    [remaining] => 0
+                )
+
+            [inspections] => Array
+                (
+                    [this_month] => 0
+                    [total_earned] => 0
+                    [remaining] => 0
+                )
+
+            [referrals] => Array
+                (
+                )
+
+            [applied] => Array
+                (
+                )
+
+        )
+
+    [__pid] => 47849
+)
+
+2016-05-06T03:25:49+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 47849
+)
+
+2016-05-06T03:25:49+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 47849
+)
+
+2016-05-06T03:25:49+00:00 DEBUG (7): Array
+(
+    [0] => ping
+    [__pid] => 47849
+)
+
+2016-05-06T03:25:49+00:00 DEBUG (7): Array
+(
+    [__pid] => 47849
+)
+
+2016-05-06T03:25:49+00:00 DEBUG (7): Array
+(
+    [0] => Everything's Chimpy!
+    [__pid] => 47849
+)
+
+2016-05-06T03:25:50+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 47901
+)
+
+2016-05-06T03:25:50+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 47901
+)
+
+2016-05-06T03:25:50+00:00 DEBUG (7): Array
+(
+    [0] => listInterestGroupings
+    [__pid] => 47901
+)
+
+2016-05-06T03:25:50+00:00 DEBUG (7): Array
+(
+    [0] => cda0795cce
+    [__pid] => 47901
+)
+
+2016-05-06T03:25:50+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 47901
+)
+
+2016-05-06T03:25:50+00:00 DEBUG (7): Array
+(
+    [0] => Error: This list does not have interest groups enabled, code 211
+    [__pid] => 47901
+)
+
+2016-05-06T03:26:45+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 1281
+)
+
+2016-05-06T03:26:45+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 1281
+)
+
+2016-05-06T03:26:45+00:00 DEBUG (7): Array
+(
+    [0] => ping
+    [__pid] => 1281
+)
+
+2016-05-06T03:26:45+00:00 DEBUG (7): Array
+(
+    [__pid] => 1281
+)
+
+2016-05-06T03:26:45+00:00 DEBUG (7): Array
+(
+    [0] => Everything's Chimpy!
+    [__pid] => 1281
+)
+
+2016-05-06T03:26:45+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 1281
+)
+
+2016-05-06T03:26:45+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 1281
+)
+
+2016-05-06T03:26:45+00:00 DEBUG (7): Array
+(
+    [0] => lists
+    [__pid] => 1281
+)
+
+2016-05-06T03:26:45+00:00 DEBUG (7): Array
+(
+    [__pid] => 1281
+)
+
+2016-05-06T03:26:45+00:00 DEBUG (7): Array
+(
+    [total] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => cda0795cce
+                    [web_id] => 350389
+                    [name] => Newsletter
+                    [date_created] => 2016-04-26 06:12:11
+                    [email_type_option] => 
+                    [use_awesomebar] => 1
+                    [default_from_name] => Telegraph Health Center
+                    [default_from_email] => info@telegraphhealth.com
+                    [default_subject] => 
+                    [default_language] => en
+                    [list_rating] => 3
+                    [subscribe_url_short] => http://eepurl.com/bZmZpT
+                    [subscribe_url_long] => http://telegraphhealth.us11.list-manage.com/subscribe?u=b3b3ab81c9458a7ce1547f562&id=cda0795cce
+                    [beamer_address] => us11-2dc1a548cc-073f78720a@inbound.mailchimp.com
+                    [visibility] => pub
+                    [stats] => Array
+                        (
+                            [member_count] => 13473
+                            [unsubscribe_count] => 0
+                            [cleaned_count] => 0
+                            [member_count_since_send] => 3
+                            [unsubscribe_count_since_send] => 0
+                            [cleaned_count_since_send] => 0
+                            [campaign_count] => 0
+                            [grouping_count] => 0
+                            [group_count] => 0
+                            [merge_var_count] => 3
+                            [avg_sub_rate] => 0
+                            [avg_unsub_rate] => 0
+                            [target_sub_rate] => 0
+                            [open_rate] => 0
+                            [click_rate] => 0
+                        )
+
+                    [modules] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [__pid] => 1281
+)
+
+2016-05-06T03:26:45+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 1281
+)
+
+2016-05-06T03:26:45+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 1281
+)
+
+2016-05-06T03:26:45+00:00 DEBUG (7): Array
+(
+    [0] => listMergeVars
+    [__pid] => 1281
+)
+
+2016-05-06T03:26:45+00:00 DEBUG (7): Array
+(
+    [0] => cda0795cce
+    [__pid] => 1281
+)
+
+2016-05-06T03:26:45+00:00 DEBUG (7): Array
+(
+    [0] => Array
+        (
+            [name] => Email Address
+            [req] => 1
+            [field_type] => email
+            [public] => 1
+            [show] => 1
+            [order] => 1
+            [default] => 
+            [helptext] => 
+            [size] => 25
+            [tag] => EMAIL
+            [id] => 0
+        )
+
+    [1] => Array
+        (
+            [name] => First Name
+            [req] => 
+            [field_type] => text
+            [public] => 1
+            [show] => 1
+            [order] => 2
+            [default] => 
+            [helptext] => 
+            [size] => 25
+            [tag] => FNAME
+            [id] => 1
+        )
+
+    [2] => Array
+        (
+            [name] => Last Name
+            [req] => 
+            [field_type] => text
+            [public] => 1
+            [show] => 1
+            [order] => 3
+            [default] => 
+            [helptext] => 
+            [size] => 25
+            [tag] => LNAME
+            [id] => 2
+        )
+
+    [3] => Array
+        (
+            [name] => Customer Groups
+            [req] => 
+            [field_type] => dropdown
+            [public] => 1
+            [show] => 1
+            [order] => 4
+            [default] => 
+            [helptext] => 
+            [size] => 25
+            [choices] => Array
+                (
+                    [0] => General
+                    [1] => Wholesale
+                    [2] => Retailer
+                    [3] => NOT LOGGED IN
+                )
+
+            [tag] => CGROUP
+            [id] => 3
+        )
+
+    [__pid] => 1281
+)
+
+2016-05-06T03:26:45+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 1281
+)
+
+2016-05-06T03:26:45+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 1281
+)
+
+2016-05-06T03:26:45+00:00 DEBUG (7): Array
+(
+    [0] => listMergeVarUpdate
+    [__pid] => 1281
+)
+
+2016-05-06T03:26:45+00:00 DEBUG (7): Array
+(
+    [0] => cda0795cce
+    [1] => CGROUP
+    [2] => Array
+        (
+            [choices] => Array
+                (
+                    [1] => General
+                    [2] => Wholesale
+                    [3] => Retailer
+                    [4] => NOT LOGGED IN
+                )
+
+        )
+
+    [__pid] => 1281
+)
+
+2016-05-06T03:26:45+00:00 DEBUG (7): Array
+(
+    [0] => 1
+    [__pid] => 1281
+)
+
+2016-05-06T03:26:45+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 1281
+)
+
+2016-05-06T03:26:45+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 1281
+)
+
+2016-05-06T03:26:45+00:00 DEBUG (7): Array
+(
+    [0] => listWebhookAdd
+    [__pid] => 1281
+)
+
+2016-05-06T03:26:45+00:00 DEBUG (7): Array
+(
+    [0] => cda0795cce
+    [1] => http://bisonmedia.net/dd/index.php/monkey/webhook/index/wkey/a249faac11a10e7c/
+    [__pid] => 1281
+)
+
+2016-05-06T03:26:46+00:00 DEBUG (7): Array
+(
+    [0] => 1
+    [__pid] => 1281
+)
+
+2016-05-06T03:26:48+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 1333
+)
+
+2016-05-06T03:26:48+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 1333
+)
+
+2016-05-06T03:26:48+00:00 DEBUG (7): Array
+(
+    [0] => getAccountDetails
+    [__pid] => 1333
+)
+
+2016-05-06T03:26:48+00:00 DEBUG (7): Array
+(
+    [__pid] => 1333
+)
+
+2016-05-06T03:26:49+00:00 DEBUG (7): Array
+(
+    [user_id] => b3b3ab81c9458a7ce1547f562
+    [username] => Telegraph Health Center
+    [member_since] => 2015-05-29 01:41:13
+    [is_approved] => 
+    [is_trial] => 
+    [has_activated] => 1
+    [timezone] => US/Pacific
+    [plan_type] => monthly
+    [plan_high] => 25000
+    [plan_low] => 12801
+    [plan_start_date] => 2016-02-11
+    [pending_monthly] => 
+    [first_payment] => 2015-07-07 21:31:46
+    [last_payment] => 2016-04-11 05:56:15
+    [times_logged_in] => 0
+    [last_login] => 2016-05-06 03:25:07
+    [affiliate_link] => http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=b3b3ab81c9458a7ce1547f562&afl=1
+    [contact] => Array
+        (
+            [fname] => Telegraph Health Center
+            [lname] => admin
+            [email] => admin@telegraphhealth.com
+            [company] => Telegraph Health Center
+            [address1] => 3003 Telegraph Ave
+            [address2] => 
+            [city] => Oakland
+            [state] => CA
+            [zip] => 94609
+            [country] => USA
+            [url] => http://telegraphhealth.com
+            [phone] => +1 (510) 842-5999
+            [fax] => 
+        )
+
+    [modules] => Array
+        (
+        )
+
+    [orders] => Array
+        (
+            [0] => Array
+                (
+                    [order_id] => 302029
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2015-07-07 21:31:46
+                    [credits_used] => 0
+                )
+
+            [1] => Array
+                (
+                    [order_id] => 388425
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2015-08-07 05:37:04
+                    [credits_used] => 0
+                )
+
+            [2] => Array
+                (
+                    [order_id] => 503833
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2015-09-07 05:40:21
+                    [credits_used] => 0
+                )
+
+            [3] => Array
+                (
+                    [order_id] => 661025
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2015-10-07 05:57:19
+                    [credits_used] => 0
+                )
+
+            [4] => Array
+                (
+                    [order_id] => 825225
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2015-11-07 05:55:05
+                    [credits_used] => 0
+                )
+
+            [5] => Array
+                (
+                    [order_id] => 996781
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2015-12-07 05:48:19
+                    [credits_used] => 0
+                )
+
+            [6] => Array
+                (
+                    [order_id] => 1147189
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2016-01-07 05:57:01
+                    [credits_used] => 0
+                )
+
+            [7] => Array
+                (
+                    [order_id] => 1297529
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2016-02-07 05:51:51
+                    [credits_used] => 0
+                )
+
+            [8] => Array
+                (
+                    [order_id] => 1321713
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2016-02-11 21:25:59
+                    [credits_used] => 0
+                )
+
+            [9] => Array
+                (
+                    [order_id] => 1473857
+                    [type] => Addon
+                    [amount] => 95
+                    [date] => 2016-03-11 05:59:18
+                    [credits_used] => 0
+                )
+
+            [10] => Array
+                (
+                    [order_id] => 1624649
+                    [type] => Addon
+                    [amount] => 150
+                    [date] => 2016-04-11 05:56:15
+                    [credits_used] => 0
+                )
+
+        )
+
+    [rewards] => Array
+        (
+            [referrals_this_month] => 0
+            [notify_on] => 
+            [notify_email] => 
+            [credits] => Array
+                (
+                    [this_month] => 0
+                    [total_earned] => 0
+                    [remaining] => 0
+                )
+
+            [inspections] => Array
+                (
+                    [this_month] => 0
+                    [total_earned] => 0
+                    [remaining] => 0
+                )
+
+            [referrals] => Array
+                (
+                )
+
+            [applied] => Array
+                (
+                )
+
+        )
+
+    [__pid] => 1333
+)
+
+2016-05-06T03:26:49+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 1333
+)
+
+2016-05-06T03:26:49+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 1333
+)
+
+2016-05-06T03:26:49+00:00 DEBUG (7): Array
+(
+    [0] => lists
+    [__pid] => 1333
+)
+
+2016-05-06T03:26:49+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [1] => 
+    [2] => 25
+    [__pid] => 1333
+)
+
+2016-05-06T03:26:49+00:00 DEBUG (7): Array
+(
+    [total] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => cda0795cce
+                    [web_id] => 350389
+                    [name] => Newsletter
+                    [date_created] => 2016-04-26 06:12:11
+                    [email_type_option] => 
+                    [use_awesomebar] => 1
+                    [default_from_name] => Telegraph Health Center
+                    [default_from_email] => info@telegraphhealth.com
+                    [default_subject] => 
+                    [default_language] => en
+                    [list_rating] => 3
+                    [subscribe_url_short] => http://eepurl.com/bZmZpT
+                    [subscribe_url_long] => http://telegraphhealth.us11.list-manage.com/subscribe?u=b3b3ab81c9458a7ce1547f562&id=cda0795cce
+                    [beamer_address] => us11-2dc1a548cc-073f78720a@inbound.mailchimp.com
+                    [visibility] => pub
+                    [stats] => Array
+                        (
+                            [member_count] => 13473
+                            [unsubscribe_count] => 0
+                            [cleaned_count] => 0
+                            [member_count_since_send] => 3
+                            [unsubscribe_count_since_send] => 0
+                            [cleaned_count_since_send] => 0
+                            [campaign_count] => 0
+                            [grouping_count] => 0
+                            [group_count] => 0
+                            [merge_var_count] => 3
+                            [avg_sub_rate] => 0
+                            [avg_unsub_rate] => 0
+                            [target_sub_rate] => 0
+                            [open_rate] => 0
+                            [click_rate] => 0
+                        )
+
+                    [modules] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [__pid] => 1333
+)
+
+2016-05-06T03:26:49+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 1333
+)
+
+2016-05-06T03:26:49+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 1333
+)
+
+2016-05-06T03:26:49+00:00 DEBUG (7): Array
+(
+    [0] => listInterestGroupings
+    [__pid] => 1333
+)
+
+2016-05-06T03:26:49+00:00 DEBUG (7): Array
+(
+    [0] => cda0795cce
+    [__pid] => 1333
+)
+
+2016-05-06T03:26:49+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 1333
+)
+
+2016-05-06T03:26:49+00:00 DEBUG (7): Array
+(
+    [0] => Error: This list does not have interest groups enabled, code 211
+    [__pid] => 1333
+)
+
+2016-05-06T03:26:50+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 1333
+)
+
+2016-05-06T03:26:50+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 1333
+)
+
+2016-05-06T03:26:50+00:00 DEBUG (7): Array
+(
+    [0] => getAccountDetails
+    [__pid] => 1333
+)
+
+2016-05-06T03:26:50+00:00 DEBUG (7): Array
+(
+    [__pid] => 1333
+)
+
+2016-05-06T03:26:50+00:00 DEBUG (7): Array
+(
+    [user_id] => b3b3ab81c9458a7ce1547f562
+    [username] => Telegraph Health Center
+    [member_since] => 2015-05-29 01:41:13
+    [is_approved] => 
+    [is_trial] => 
+    [has_activated] => 1
+    [timezone] => US/Pacific
+    [plan_type] => monthly
+    [plan_high] => 25000
+    [plan_low] => 12801
+    [plan_start_date] => 2016-02-11
+    [pending_monthly] => 
+    [first_payment] => 2015-07-07 21:31:46
+    [last_payment] => 2016-04-11 05:56:15
+    [times_logged_in] => 0
+    [last_login] => 2016-05-06 03:25:07
+    [affiliate_link] => http://www.mailchimp.com/monkey-rewards/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=monkey_rewards&aid=b3b3ab81c9458a7ce1547f562&afl=1
+    [contact] => Array
+        (
+            [fname] => Telegraph Health Center
+            [lname] => admin
+            [email] => admin@telegraphhealth.com
+            [company] => Telegraph Health Center
+            [address1] => 3003 Telegraph Ave
+            [address2] => 
+            [city] => Oakland
+            [state] => CA
+            [zip] => 94609
+            [country] => USA
+            [url] => http://telegraphhealth.com
+            [phone] => +1 (510) 842-5999
+            [fax] => 
+        )
+
+    [modules] => Array
+        (
+        )
+
+    [orders] => Array
+        (
+            [0] => Array
+                (
+                    [order_id] => 302029
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2015-07-07 21:31:46
+                    [credits_used] => 0
+                )
+
+            [1] => Array
+                (
+                    [order_id] => 388425
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2015-08-07 05:37:04
+                    [credits_used] => 0
+                )
+
+            [2] => Array
+                (
+                    [order_id] => 503833
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2015-09-07 05:40:21
+                    [credits_used] => 0
+                )
+
+            [3] => Array
+                (
+                    [order_id] => 661025
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2015-10-07 05:57:19
+                    [credits_used] => 0
+                )
+
+            [4] => Array
+                (
+                    [order_id] => 825225
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2015-11-07 05:55:05
+                    [credits_used] => 0
+                )
+
+            [5] => Array
+                (
+                    [order_id] => 996781
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2015-12-07 05:48:19
+                    [credits_used] => 0
+                )
+
+            [6] => Array
+                (
+                    [order_id] => 1147189
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2016-01-07 05:57:01
+                    [credits_used] => 0
+                )
+
+            [7] => Array
+                (
+                    [order_id] => 1297529
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2016-02-07 05:51:51
+                    [credits_used] => 0
+                )
+
+            [8] => Array
+                (
+                    [order_id] => 1321713
+                    [type] => Addon
+                    [amount] => 75
+                    [date] => 2016-02-11 21:25:59
+                    [credits_used] => 0
+                )
+
+            [9] => Array
+                (
+                    [order_id] => 1473857
+                    [type] => Addon
+                    [amount] => 95
+                    [date] => 2016-03-11 05:59:18
+                    [credits_used] => 0
+                )
+
+            [10] => Array
+                (
+                    [order_id] => 1624649
+                    [type] => Addon
+                    [amount] => 150
+                    [date] => 2016-04-11 05:56:15
+                    [credits_used] => 0
+                )
+
+        )
+
+    [rewards] => Array
+        (
+            [referrals_this_month] => 0
+            [notify_on] => 
+            [notify_email] => 
+            [credits] => Array
+                (
+                    [this_month] => 0
+                    [total_earned] => 0
+                    [remaining] => 0
+                )
+
+            [inspections] => Array
+                (
+                    [this_month] => 0
+                    [total_earned] => 0
+                    [remaining] => 0
+                )
+
+            [referrals] => Array
+                (
+                )
+
+            [applied] => Array
+                (
+                )
+
+        )
+
+    [__pid] => 1333
+)
+
+2016-05-06T03:26:50+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 1333
+)
+
+2016-05-06T03:26:50+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 1333
+)
+
+2016-05-06T03:26:50+00:00 DEBUG (7): Array
+(
+    [0] => ping
+    [__pid] => 1333
+)
+
+2016-05-06T03:26:50+00:00 DEBUG (7): Array
+(
+    [__pid] => 1333
+)
+
+2016-05-06T03:26:51+00:00 DEBUG (7): Array
+(
+    [0] => Everything's Chimpy!
+    [__pid] => 1333
+)
+
+2016-05-06T03:26:52+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 1460
+)
+
+2016-05-06T03:26:52+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 1460
+)
+
+2016-05-06T03:26:52+00:00 DEBUG (7): Array
+(
+    [0] => listInterestGroupings
+    [__pid] => 1460
+)
+
+2016-05-06T03:26:52+00:00 DEBUG (7): Array
+(
+    [0] => cda0795cce
+    [__pid] => 1460
+)
+
+2016-05-06T03:26:52+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 1460
+)
+
+2016-05-06T03:26:52+00:00 DEBUG (7): Array
+(
+    [0] => Error: This list does not have interest groups enabled, code 211
+    [__pid] => 1460
+)
+
+2016-05-06T03:28:08+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 4911
+)
+
+2016-05-06T03:28:08+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 4911
+)
+
+2016-05-06T03:28:08+00:00 DEBUG (7): Array
+(
+    [0] => listMemberInfo
+    [__pid] => 4911
+)
+
+2016-05-06T03:28:08+00:00 DEBUG (7): Array
+(
+    [0] => cda0795cce
+    [1] => benjamin.daniel@outlook.com
+    [__pid] => 4911
+)
+
+2016-05-06T03:28:08+00:00 DEBUG (7): Array
+(
+    [success] => 1
+    [errors] => 0
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [email] => benjamin.daniel@outlook.com
+                    [id] => 594fb3af7e
+                    [euid] => 594fb3af7e
+                    [email_type] => html
+                    [ip_signup] => 
+                    [timestamp_signup] => 
+                    [ip_opt] => 
+                    [timestamp_opt] => 2016-04-26 12:10:12
+                    [member_rating] => 2
+                    [info_changed] => 2016-05-06 03:27:40
+                    [web_id] => 223559593
+                    [leid] => 223559593
+                    [language] => 
+                    [list_id] => cda0795cce
+                    [list_name] => Newsletter
+                    [merges] => Array
+                        (
+                            [EMAIL] => benjamin.daniel@outlook.com
+                            [FNAME] => Benjamin**EMPLOYEE**
+                            [LNAME] => Daniel
+                            [CGROUP] => 
+                        )
+
+                    [status] => unsubscribed
+                    [timestamp] => 2016-05-06 03:27:40
+                    [is_gmonkey] => 
+                    [lists] => Array
+                        (
+                            [c237094974] => subscribed
+                            [4a0acacd5f] => subscribed
+                        )
+
+                    [geo] => Array
+                        (
+                        )
+
+                    [clients] => Array
+                        (
+                            [name] => Hotmail
+                            [icon_url] => http://us11.admin.mailchimp.com/images/email-client-icons/hotmail.png
+                        )
+
+                    [static_segments] => Array
+                        (
+                        )
+
+                    [notes] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [__pid] => 4911
+)
+
+2016-05-06T03:28:08+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 4911
+)
+
+2016-05-06T03:28:08+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 4911
+)
+
+2016-05-06T03:28:08+00:00 DEBUG (7): Array
+(
+    [0] => listSubscribe
+    [__pid] => 4911
+)
+
+2016-05-06T03:28:08+00:00 DEBUG (7): Array
+(
+    [0] => cda0795cce
+    [1] => benjamin.daniel@outlook.com
+    [2] => Array
+        (
+            [FNAME] => Benjamin 
+            [LNAME] => Daniel
+            [STOREID] => 1
+            [WEBSITE] => 1
+            [STORECRED] => 
+            [CGROUP] => General
+            [STORECOD] => default
+            [GROUPINGS] => Array
+                (
+                )
+
+        )
+
+    [3] => html
+    [4] => 
+    [5] => 1
+    [__pid] => 4911
+)
+
+2016-05-06T03:28:09+00:00 DEBUG (7): Array
+(
+    [0] => 1
+    [__pid] => 4911
+)
+

@@ -148,6 +148,9 @@
 		<?php endif; ?>
 		<?php //end: home link ?>
 
+		<?php //Custom links ?>
+		<?php echo $linksHtml; ?>
+
 		<?php //Categories ?>
 		<?php if ($categories): ?>
 			<?php echo $this->getChildHtml('catalog.topnav.navigation'); ?>
@@ -170,8 +173,7 @@
 			</li>
 		<?php endif; ?>
 		
-		<?php //Custom links ?>
-		<?php echo $linksHtml; ?>
+		
 		
 	</ul>
 	<div class="nav-border-bottom"></div>

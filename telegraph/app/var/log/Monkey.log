@@ -1,0 +1,39 @@
+2016-05-06T03:26:46+00:00 DEBUG (7): Array
+(
+    [0] => array (
+)
+    [__pid] => 1320
+)
+
+2016-05-06T03:26:46+00:00 DEBUG (7): Array
+(
+    [0] => Webhook call ended
+    [__pid] => 1320
+)
+
+2016-05-06T03:27:41+00:00 DEBUG (7): Array
+(
+    [0] => array (
+  'type' => 'unsubscribe',
+  'fired_at' => '2016-05-06 03:27:41',
+  'data' => 
+  array (
+    'action' => 'unsub',
+    'reason' => 'manual',
+    'id' => '594fb3af7e',
+    'email' => 'benjamin.daniel@outlook.com',
+    'email_type' => 'html',
+    'web_id' => '223559593',
+    'merges' => 
+    array (
+      'EMAIL' => 'benjamin.daniel@outlook.com',
+      'FNAME' => 'Benjamin**EMPLOYEE**',
+      'LNAME' => 'Daniel',
+      'CGROUP' => '',
+    ),
+    'list_id' => 'cda0795cce',
+  ),
+)
+    [__pid] => 4018
+)
+

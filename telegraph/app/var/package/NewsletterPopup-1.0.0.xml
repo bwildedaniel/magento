@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package>
+    <name>NewsletterPopup</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license>Open Software License (OSL)</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>This is magento extension for newsletter subscription with pop-up window.</summary>
+    <description>Magento extension of newsletter subscription for latest version (1.9)&#xD;
+&#xD;
+When user visit the website this pop-up window open for newsletter subscription.&#xD;
+Its easy to install and configure.&#xD;
+&#xD;
+if visitor don&#x2019;t want to subscribe them, then its easily close.&#xD;
+&#xD;
+you can easily change the layout of this pop-up as per your requirement.&#xD;
+&#xD;
+you can see newsletter subscriber list on admin panel newsletter section.&#xD;
+</description>
+    <notes>this is stable version of newsletter pop-up subscription.</notes>
+    <authors><author><name>iquallinfo</name><user>admin</user><email>support@i-quall.com</email></author></authors>
+    <date>2014-12-29</date>
+    <time>12:43:02</time>
+    <contents><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="template"><dir name="newsletter"><file name="subscribepopup.phtml" hash="0cf67bfaaf013a229442f3625e4c5fce"/></dir><dir name="page"><dir name="html"><file name="head-rename.phtml" hash="327de3d1d338f86bcd051160f7e51540"/></dir></dir></dir></dir></dir></dir></target><target name="mageskin"><dir name="frontend"><dir name="base"><dir name="default"><dir name="css"><file name="popupnewslleter.css" hash="adda845fc6a67684013a1b81cc003116"/></dir></dir></dir></dir></target><target name="mage"><dir><dir name="NewsletterPopup"><file name="readme.txt" hash="624554ced0b09336b53a1e6e14f2b4f1"/></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>

@@ -1,0 +1,4 @@
+<?php
+class Sibers_RESTExtender_Model_Api2_Product_Attribute_Set extends Mage_Api2_Model_Resource
+{
+}

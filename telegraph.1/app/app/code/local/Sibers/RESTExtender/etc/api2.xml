@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<config>
+<api2>
+    <resource_groups>
+        <restextender translate="title" module="Sibers_RESTExtender">
+            <title>Sibers API</title>
+            <sort_order>10</sort_order>       
+        </restextender>
+    </resource_groups>
+    <resources>
+        <category translate="title" module="Sibers_RESTExtender">
+            <group>restextender</group>
+            <working_model>restextender/category</working_model>
+            <model>restextender/api2_category</model>
+            <title>Categories</title>
+            <sort_order>10</sort_order>
+            <privileges>
+                <admin>
+                    <retrieve>1</retrieve>
+                    <create>1</create>
+                    <update>1</update>
+                    <delete>1</delete> 
+                </admin>
+            </privileges>
+            <attributes>
+                <id>Category ID</id>
+                <name>Name</name>
+                <parent_id>Category Parent ID</parent_id>
+                <children>Category Child List</children>
+                <is_active>Active</is_active>
+                <is_anchor>Is anchor</is_anchor>
+                <level>Level</level>
+                <position>Position</position>
+                <url_key>URL Key</url_key>
+                <ref_id>Reference Id</ref_id>
+                <image>Image</image>
+                <image_url>Image URL</image_url>
+                <display_mode>Display mode</display_mode>
+                <description>Description</description>
+                <meta_description>Meta description</meta_description>
+            </attributes>
+            <routes>
+                <route_entity>
+                    <route>/categories/:id</route>
+                    <action_type>entity</action_type>
+                </route_entity>
+                <route_collection>
+                    <route>/categories</route>
+                    <action_type>collection</action_type>
+                </route_collection>
+            </routes>
+            <versions>1</versions>
+        </category>
+        <products_options translate="title" module="Sibers_RESTExtender">
+            <group>restextender</group>
+            <working_model>restextender/products_options</working_model>
+            <model>restextender/api2_product_option</model>
+            <title>Product Options</title>
+            <sort_order>10</sort_order>
+            <privileges>
+                <admin>
+                    <retrieve>1</retrieve>
+                    <create>1</create>
+                    <update>1</update>
+                    <delete>1</delete> 
+                </admin>
+            </privileges>
+            <attributes>
+                <title>Title</title>
+                <type>Type</type>
+                <is_require>Is require</is_require>
+                <sort_order>Sort order</sort_order>
+                <additional_fields>Additional fields</additional_fields>
+                <id>Option id</id>
+            </attributes>
+            <routes>
+                <route_entity>
+                    <route>/products/:product_id/options/:id</route>
+                    <action_type>entity</action_type>
+                </route_entity>
+                <route_collection>
+                    <route>/products/:product_id/options</route>
+                    <action_type>collection</action_type>
+                </route_collection>
+            </routes>
+            <versions>1</versions>
+        </products_options>
+        <attribute_sets translate="title" module="Sibers_RESTExtender">
+            <group>restextender</group>
+            <working_model>restextender/attribute_sets</working_model>
+            <model>restextender/api2_product_attribute_set</model>
+            <title>Product Attribute Sets</title>
+            <sort_order>10</sort_order>
+            <privileges>
+                <admin>
+                    <retrieve>1</retrieve>
+                    <create>1</create>
+                    <update>1</update>
+                    <delete>1</delete> 
+                </admin>
+            </privileges>
+            <attributes>
+                <name>Name</name>
+                <id>Set id</id>
+            </attributes>
+            <routes>
+                <route_collection>
+                    <route>/attributesets</route>
+                    <action_type>collection</action_type>
+                </route_collection>
+            </routes>
+            <versions>1</versions>
+        </attribute_sets>
+    </resources>
+</api2>
+</config>

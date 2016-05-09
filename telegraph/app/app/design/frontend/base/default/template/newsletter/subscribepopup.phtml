@@ -1,0 +1,77 @@
+<?php
+/**
+ * Magento
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the Academic Free License (AFL 3.0)
+ * that is bundled with this package in the file LICENSE_AFL.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://opensource.org/licenses/afl-3.0.php
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@magentocommerce.com so we can send you a copy immediately.
+ *
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade Magento to newer
+ * versions in the future. If you wish to customize Magento for your
+ * needs please refer to http://www.magentocommerce.com for more information.
+ *
+ * @category    design
+ * @package     rwd_default
+ * @copyright   Copyright (c) 2014 Magento Inc. (http://www.magentocommerce.com)
+ * @license     http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+ */
+?>
+<link media="all" href="<?php echo Mage::getBaseUrl(); ?>/skin/frontend/base/default/css/popupnewslleter.css" type="text/css" rel="stylesheet">
+<div id="boxes"><div id="dialog" class="window"><a href="#" class="close agree">X</a>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js"></script>
+<script>$(document).ready(function(){var id = '#dialog';
+//Get the screen height and width
+var maskHeight = $(document).height();var maskWidth = $(window).width();
+//Set heigth and width to mask to fill up the whole screen
+$('#mask').css({'width':maskWidth,'height':maskHeight});
+//transition effect
+$('#mask').fadeIn(500);$('#mask').fadeTo("slow",0.9);
+//Get the window height and width
+var winH = $(window).height();var winW = $(window).width();
+//Set the popup window to center
+$(id).css('top',  winH/2-$(id).height()/2);$(id).css('left', winW/2-$(id).width()/2);
+//transition effect
+$(id).fadeIn(2000);     
+//if close button is clicked
+$('.window .close').click(function (e) {
+//Cancel the link behavior
+e.preventDefault();$('#mask').hide();$('.window').hide();}); 
+//if mask is clicked
+$('#mask').click(function () {$(this).hide();$('.window').hide();});});
+</script>
+<script language="javascript">
+function validateForm() {var x = document.forms["myForm"]["email"].value;var atpos = x.indexOf("@");var dotpos = x.lastIndexOf(".");if (atpos< 1 || dotpos<atpos+2 || dotpos+2>=x.length) {document.getElementById("email-valid").style.display="block";return false;}else{document.getElementById("email-valid").style.display="none";}}
+</script>
+
+<div class="block block-subscribe popupsubscriber">
+    <div class="block-title">
+        <strong><span class="popuptitle"><?php echo $this->__('Newsletter') ?></span></strong>
+    </div>
+      <form name="myForm" onsubmit="return validateForm();" action="<?php echo $this->getFormActionUrl() ?>" method="post" id="newsletter-validate-detail">
+        <div class="block-content">
+            <div class="form-subscribe-header">
+                <label for="newsletter"><?php echo $this->__('Sign Up for Our Newsletter:') ?></label>
+            </div>
+            <div class="input-box">
+                <input type="email" autocapitalize="off" autofocus required autocorrect="off" spellcheck="false" name="email" id="newsletter" placeholder="johndoe@gmail.com." title="<?php echo $this->__('Sign up for our newsletter') ?>" class="input-text required-entry validate-email" />
+            </div>
+            <div id="email-valid" style="display:none;">please enter valid email address</div>
+            <div class="actions">
+                <button type="submit" title="<?php echo $this->__('Subscribe') ?>" class="button"><span><span><?php echo $this->__('Subscribe') ?></span></span></button>
+            </div>
+        </div>
+    </form>
+    <script type="text/javascript">
+    //<![CDATA[
+        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    //]]>
+    </script>
+</div>

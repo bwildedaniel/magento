@@ -1,0 +1,9 @@
+a:5:{i:0;s:235:"Error in file: "/var/www/html/app/code/core/Mage/Bundle/sql/bundle_setup/mysql4-upgrade-1.6.0.0-1.6.0.0.1.php" - SQLSTATE[42S02]: Base table or view not found: 1146 Table 'whale.catalog_product_index_price_bundle_sel_idx' doesn't exist";i:1;s:875:"#0 /var/www/html/app/code/core/Mage/Core/Model/Resource/Setup.php(645): Mage::exception('Mage_Core', 'Error in file: ...')
+#1 /var/www/html/app/code/core/Mage/Core/Model/Resource/Setup.php(422): Mage_Core_Model_Resource_Setup->_modifyResourceDb('upgrade', '1.6.0.0', '1.6.0.0.1')
+#2 /var/www/html/app/code/core/Mage/Core/Model/Resource/Setup.php(327): Mage_Core_Model_Resource_Setup->_installResourceDb('1.6.0.0.1')
+#3 /var/www/html/app/code/core/Mage/Core/Model/Resource/Setup.php(235): Mage_Core_Model_Resource_Setup->applyUpdates()
+#4 /var/www/html/app/code/core/Mage/Core/Model/App.php(417): Mage_Core_Model_Resource_Setup::applyAllUpdates()
+#5 /var/www/html/app/code/core/Mage/Core/Model/App.php(343): Mage_Core_Model_App->_initModules()
+#6 /var/www/html/app/Mage.php(684): Mage_Core_Model_App->run(Array)
+#7 /var/www/html/index.php(87): Mage::run('', 'store')
+#8 {main}";s:3:"url";s:36:"/index.php/install/wizard/installDb/";s:11:"script_name";s:10:"/index.php";s:4:"skin";s:7:"default";}
