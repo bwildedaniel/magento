@@ -24,6 +24,10 @@
  * @copyright   Copyright (c) 2006-2016 X.commerce, Inc. and affiliates (http://www.magento.com)
  * @license     http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
  */
+      <host><![CDATA[173.194.229.76]]></host>
+                    <username><![CDATA[whale]]></username>
+                    <password><![CDATA[whale]]></password>
+                    <dbname><![CDATA[howdy]]></dbname>
 -->
 <config>
     <global>

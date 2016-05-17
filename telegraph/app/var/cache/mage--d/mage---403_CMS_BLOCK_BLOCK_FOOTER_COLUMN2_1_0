@@ -1,0 +1,27 @@
+<div class="collapsible mobile-collapsible">
+		<h6 class="block-title heading">Contact Details</h6>
+		<div class="block-content">
+                        <a href="https://www.google.com/maps?ll=37.819241,-122.267353&z=15&t=m&hl=en-US&gl=US&mapclient=embed&cid=11018772370070478714" title="3003 Telegraph Ave. Oakland, California 94606">
+                        <div class="feature feature-icon-hover indent">
+                           <span class="ib ic ic-mobile ic-pin" title="3003 Telegraph Ave. Oakland, California 94606"></span>
+                           <p class="no-margin ">3003 Telegraph Ave.<br/>Oakland, California 94606</p>
+			</div>
+                        <a/>
+                        <div class="feature feature-icon-hover indent first">
+				<span class="ib ic ic-lastminute ic-lg"></span>
+				<p class="no-margin " style=" line-height: 34px;">10:00 AM – 8:00 PM everyday</p>
+			</div>
+                       <a href="tel:(510) 808-5121" title="Call Telegraph Health Center at (510) 808-5121">
+                        <div class="feature feature-icon-hover indent first">
+				<span class="ib ic ic-phone ic-lg"></span>
+				<p class="no-margin " style=" line-height: 34px;">(510) 808-5121</p>
+			</div>
+                  <a/>
+                  <a href="mailto:info@telegraphhealth.com" title="Email Telegraph Health Center at info@telegraphhealth.com">
+                        <div class="feature feature-icon-hover indent">
+				<span class="ib ic ic-letter ic-lg"></span>
+				<p class="no-margin" style=" line-height: 34px;">info@telegraphhealth.com</p>
+                        </div>
+                  <a/>
+            </div>
+</div>

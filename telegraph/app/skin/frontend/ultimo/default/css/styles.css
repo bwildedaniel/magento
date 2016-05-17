@@ -404,9 +404,15 @@ p.required,
 
 /* Selected forms
 -------------------------------------------------------------- */
+
+
+.contacts-index-index .no-gutter.grid-col2-main {
+    width: 100%;
+}
+
 #contactForm textarea {
 	width: 100%;
-	max-width: 535px;
+
 }
 
 
@@ -820,9 +826,14 @@ ul.disc ul li { background:url(../images/infortis/_shared/cck/list/bullet-small.
 .header-container3 { background-repeat:repeat; background-position:center top; background-attachment: scroll; }
 .header { padding:0; }
 
+.header .item-right {
+	float: right;
+}
+
+
 /* Misc header elements
 -------------------------------------------------------------- */
-.header .item {}
+
 .header .item-left {
 	float: left;
 	margin-right: 10px;
@@ -837,6 +848,7 @@ ul.disc ul li { background:url(../images/infortis/_shared/cck/list/bullet-small.
 
 /* User menu inside header top
 -------------------------------------------------------------- */
+
 .header-top .item-left .user-menu > * {
 	float: left;
 }
@@ -851,7 +863,7 @@ ul.disc ul li { background:url(../images/infortis/_shared/cck/list/bullet-small.
 /* Clear floats and override custom styles to avoid incorrect position of elements */
 .user-menu {
 	width:100%;
-	float:none;
+	float:right;
 	margin:0;
 
 	/* Clear floats of other elements */

@@ -1,0 +1,30 @@
+<div class="feature feature-icon-hover indent">
+	<span class="ib ic ic-lg ic-package"></span>
+	<p class="no-margin ">Online orders are picked up and paid for onsite.</p>
+</div>
+<div class="feature feature-icon-hover indent">
+	<span class="ib ic ic-lg ic-alarm"></span>
+	<p class="no-margin ">Online orders may be placed between 11:00 AM – 7:00 PM.</p>
+</div>
+<div class="feature feature-icon-hover indent">
+	<span class="ib ic ic-lg ic-stopwatch"></span>
+	<p class="no-margin ">Allow  60 minutes to pick up online orders.</p>
+</div>
+
+
+
+<!-- Social bookmarks from http://www.addthis.com/get/sharing  -->
+<!-- AddThis Button BEGIN -->
+<div class="feature-wrapper top-border">
+	<div class="addthis_toolbox addthis_default_style ">
+	<a class="addthis_button_preferred_1"></a>
+	<a class="addthis_button_preferred_2"></a>
+	<a class="addthis_button_preferred_3"></a>
+	<a class="addthis_button_preferred_4"></a>
+	<a class="addthis_button_compact"></a>
+	<a class="addthis_counter addthis_bubble_style"></a>
+	</div>
+	<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=xa-5054e6c6502d114f"></script>
+</div>
+<!-- AddThis Button END -->
+

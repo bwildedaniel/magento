@@ -228,7 +228,6 @@ Customer account pages, rendered for all tabs in dashboard
             <block type="customer/account_navigation" name="customer_account_navigation" before="-" template="customer/account/navigation.phtml">
                 <action method="addLink" translate="label" module="customer"><name>account</name><path>customer/account/</path><label>Account Dashboard</label></action>
                 <action method="addLink" translate="label" module="customer"><name>account_edit</name><path>customer/account/edit/</path><label>Account Information</label></action>
-                <action method="addLink" translate="label" module="customer"><name>address_book</name><path>customer/address/</path><label>Address Book</label></action>
             </block>
             <block type="checkout/cart_sidebar" name="cart_sidebar" template="checkout/cart/sidebar.phtml">
                 <action method="addItemRender"><type>simple</type><block>checkout/cart_item_renderer</block><template>checkout/cart/sidebar/default.phtml</template></action>
@@ -267,8 +266,7 @@ Customer account home dashboard layout
 <!--
 Customer account address book
 -->
-
-    <customer_address_index translate="label">
+ <customer_address_index translate="label">
         <label>Customer My Account Address Book</label>
         <!-- Mage_Customer -->
         <update handle="customer_account"/>
@@ -289,5 +287,6 @@ Customer account address edit page
             <block type="customer/address_edit" name="customer_address_edit" template="customer/address/edit.phtml"/>
         </reference>
     </customer_address_form>
+   
 
 </layout>
