@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @category    Clarion
+ * @package     Clarion_Customerattribute
+ * @author      Clarion Magento Team
+ */
+-->
+<config>
+    <modules>
+        <Sibers_RESTExtender>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Sibers_RESTExtender>
+    </modules>
+</config>
