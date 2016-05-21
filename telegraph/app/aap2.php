@@ -11,9 +11,13 @@ foreach ($products as $product) {
         if (Mage::app()->isSingleStoreMode()) {
             $product->setWebsiteIds(array(Mage::app()->getStore(true)->getWebsite()->getId()));
         }
-
+        
+        
+        echo (string)$product->getId() . " with name " . $product->getName() . "\n";
         $product->save(); 
     }
+
+
 }
 echo "tadam";
 ?>

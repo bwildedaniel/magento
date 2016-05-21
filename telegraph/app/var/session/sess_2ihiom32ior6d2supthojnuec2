@@ -1,1 +1,0 @@
-core|a:2:{s:23:"_session_validator_data";a:4:{s:11:"remote_addr";s:11:"172.17.0.11";s:8:"http_via";s:0:"";s:20:"http_x_forwarded_for";s:0:"";s:15:"http_user_agent";s:22:"python-requests/2.10.0";}s:12:"visitor_data";a:3:{s:13:"last_visit_at";s:19:"2016-05-18 01:17:25";s:14:"first_visit_at";s:19:"2016-05-18 01:17:25";s:10:"visitor_id";s:3:"331";}}
