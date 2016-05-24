@@ -24,3 +24,5 @@ sudo ln -s /etc/letsencrypt/live/KEYPATH
 //you have to restart the docker container running the proxy after adding a user to the passwords dir
 sudo htpasswd -cb /proxy/passwords/cloud9.devweb.luftgrubba.com bruce passtring
 sudo htpasswd -cb /proxy/passwords/cloud9_magento.devweb.luftgrubba.com bilalazhar passtring
+
+

@@ -1,0 +1,8 @@
+<div class="block block-vertnav hide-below-768">
+    <div class="block-title">
+        <strong><span>Categories</span></strong>
+    </div>
+    <div class="block-content">
+        <ul class="accordion accordion-style1 vertnav vertnav-side clearer">             <li class="nav-item level0 nav-1 active current first"><a href="http://dev.telegraphhealth.com/index.php/medical-cannabis-menu/infused-products/edibles.html?___SID=U"><span>Edibles</span></a></li><li class="nav-item level0 nav-2"><a href="http://dev.telegraphhealth.com/index.php/medical-cannabis-menu/infused-products/tinctures.html?___SID=U"><span>Tinctures</span></a></li><li class="nav-item level0 nav-3 last"><a href="http://dev.telegraphhealth.com/index.php/medical-cannabis-menu/infused-products/topicals.html?___SID=U"><span>Topicals</span></a></li>        </ul>
+    </div>
+</div>

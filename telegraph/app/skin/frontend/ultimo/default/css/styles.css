@@ -824,7 +824,7 @@ ul.disc ul li { background:url(../images/infortis/_shared/cck/list/bullet-small.
 .header-container,
 .header-container2,
 .header-container3 { background-repeat:repeat; background-position:center top; background-attachment: scroll; }
-.header { padding:0; }
+.header { padding:100; }
 
 .header .item-right {
 	float: right;
@@ -864,7 +864,7 @@ ul.disc ul li { background:url(../images/infortis/_shared/cck/list/bullet-small.
 .user-menu {
 	width:100%;
 	float:right;
-	margin:0;
+	margin:10;
 
 	/* Clear floats of other elements */
 	clear: both;
