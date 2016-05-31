@@ -3,9 +3,9 @@
 		<div class="block-content">
 <div class="item item-left newsletter-wrapper clearer">
 								<div id="subscribe-form" class="clearer">
-    <form action="http://bisonmedia.net/dd/index.php/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+    <form action="http://dev.telegraphhealth.com/index.php/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
         <div>
- 
+  
             <div class="input-box">
                 <input type="text" name="email" id="newsletter" title="Subscribe to Telegraph Health Center newsletter to learn more about medical cannabis" class="input-text required-entry validate-email">
             </div>

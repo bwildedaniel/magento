@@ -105,6 +105,7 @@ class Mage_Catalog_Model_Api2_Product_Rest_Admin_V1 extends Mage_Catalog_Model_A
         $this->_applyCategoryFilter($collection);
         $this->_applyCollectionModifiers($collection);
         $products = $collection->load()->toArray();
+        
         return $products;
     }
 
@@ -178,7 +179,9 @@ class Mage_Catalog_Model_Api2_Product_Rest_Admin_V1 extends Mage_Catalog_Model_A
         } catch (Exception $e) {
             $this->_critical(self::RESOURCE_UNKNOWN_ERROR);
         }
-
+        
+        Mage::dispatchEvent('rest_api_product_save', array('sku' => $product->getSku()));
+        
         return $this->_getLocation($product);
     }
 

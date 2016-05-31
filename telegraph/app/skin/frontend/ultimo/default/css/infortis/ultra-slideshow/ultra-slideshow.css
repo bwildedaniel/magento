@@ -41,6 +41,6 @@
 }
 .the-slideshow:hover 			.fade-on-slideshow-hover,
 .the-slideshow-wrapper:hover 	.fade-on-slideshow-wrapper-hover {
-	opacity:0.75;
-	filter:alpha(opacity=75);
+	opacity:1.00;
+	filter:alpha(opacity=1.00);
 }

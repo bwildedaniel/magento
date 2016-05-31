@@ -310,3 +310,7 @@ a:hover .caption.light3 p { background-color:rgba(255,255,255, 1); color:#000; }
 	-webkit-transition:	none;
 	-o-transition:		none;
 }
+
+@media only screen and (max-width: 479px) {
+	.caption .heading.permanent {background-color: rgba(255, 255, 255, 1);}
+}

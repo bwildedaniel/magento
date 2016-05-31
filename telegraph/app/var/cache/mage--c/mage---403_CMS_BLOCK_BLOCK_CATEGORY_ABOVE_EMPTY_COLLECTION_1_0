@@ -1,7 +1,0 @@
-<div class="note-msg empty-catalog">
-
-	<h3>There are no products matching the selection</h3>
-	This is a custom CMS block displayed if category is empty.<br>
-	You can replace it with any custom content.
-
-</div>

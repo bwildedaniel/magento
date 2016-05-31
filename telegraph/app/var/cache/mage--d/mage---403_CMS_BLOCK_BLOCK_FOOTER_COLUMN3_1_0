@@ -1,29 +1,39 @@
 <div class="collapsible mobile-collapsible">
 		<h6 class="block-title heading">Social Media</h6>
 		<div class="block-content">
+                   <div>
+                      <div>
                         <a href="https://www.facebook.com/telegraphhealth/" title="Like Telegraph Health Center on Facebook">
                         <div class="feature feature-icon-hover indent first">
 				<span class="ib ic ic-facebook"></span>
 				<p class="no-margin " style=" line-height: 34px;">Facebook</p>
 			</div>
-                        <a/>
+                      </div>
+                        </a>
+                      <div>
                         <a href="https://www.instagram.com/telegraphhealth/" title="Follow Telegraph Health Center on Instagram">
                         <div class="feature feature-icon-hover indent first">
 				<span class="ib ic ic-instagram"></span>
 				<p class="no-margin " style=" line-height: 34px;">Instagram</p>
 			</div>
-                        <a/>
+                        </a>
+                      </div>
+                      <div>
                         <a href="https://twitter.com/telegraphhealth?" title="Follow Telegraph Health Center on Twitter">
                         <div class="feature feature-icon-hover indent first">
 				<span class="ib ic ic-twitter"></span>
 				<p class="no-margin " style=" line-height: 34px;">Twitter</p>
 			</div>
-                        <a/>
+                        </a>
+                      </div>
+                      <div>
   <a href="https://www.linkedin.com/company/telegraph-health-center/" title="Follow Telegraph Health Center on LinkedIn">
                         <div class="feature feature-icon-hover indent first">
 				<span class="ib ic ic-linkedin"></span>
 				<p class="no-margin " style=" line-height: 34px;">Linkedin</p>
 			</div>
-                        <a/>
-		</div>		
+                        </a>
+                      </div>
+                   </div>
+	</div>
 </div>

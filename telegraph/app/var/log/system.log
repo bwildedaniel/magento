@@ -1,0 +1,71 @@
+2016-05-29T00:51:54+00:00 DEBUG (7): retrieveCollection method
+2016-05-29T01:54:25+00:00 DEBUG (7): We just made an Observer!
+2016-05-29T01:59:19+00:00 DEBUG (7): 
+2016-05-29T01:59:19+00:00 DEBUG (7): We just made an Observer!
+2016-05-29T02:03:39+00:00 DEBUG (7): 
+2016-05-29T02:03:39+00:00 DEBUG (7): We just made an Observer!
+2016-05-29T02:09:36+00:00 DEBUG (7): 23132131231231
+2016-05-29T02:09:36+00:00 DEBUG (7): We just made an Observer!
+2016-05-29T02:13:03+00:00 DEBUG (7): 23132131231231 was saved!
+2016-05-29T02:13:03+00:00 DEBUG (7): 100.0000
+2016-05-29T02:15:53+00:00 DEBUG (7): 23132131231231 was saved!
+2016-05-29T02:15:53+00:00 DEBUG (7): 100.0000
+2016-05-29T02:17:38+00:00 DEBUG (7): 23132131231231 was saved!
+2016-05-29T02:17:38+00:00 DEBUG (7): 100.0000
+2016-05-29T02:17:38+00:00 DEBUG (7): 4132 with name Test name
+
+2016-05-29T02:30:24+00:00 DEBUG (7): 23132131231231 was saved!
+2016-05-29T02:30:24+00:00 DEBUG (7): 4133 with name Test name | website_id = 
+
+2016-05-29T02:32:19+00:00 DEBUG (7): 23132131231231 was saved!
+2016-05-29T02:32:19+00:00 ERR (3): Notice: Array to string conversion  in /var/www/html/app/code/local/Centroida/Observer/Model/Observer.php on line 19
+2016-05-29T02:32:19+00:00 DEBUG (7): 4134 with name Test name | website_id = Array
+
+2016-05-29T02:34:13+00:00 DEBUG (7): 23132131231231 was saved!
+2016-05-29T02:34:13+00:00 DEBUG (7): 4136 with name Test name | website_id = a:1:{i:0;s:1:"1";}
+
+2016-05-29T02:35:25+00:00 DEBUG (7): 23132131231231 was saved!
+2016-05-29T02:35:25+00:00 DEBUG (7): 4137 with name Test name | website_id = a:0:{}
+
+2016-05-29T02:35:25+00:00 DEBUG (7): 4137 with name Test name | website_id = a:1:{i:0;s:1:"1";}
+
+2016-05-30T01:12:58+00:00 DEBUG (7): 1212265465489456 was saved!
+2016-05-30T01:12:58+00:00 DEBUG (7): 4138 with name Test Product
+
+2016-05-30T01:14:29+00:00 DEBUG (7): 1212265465489456 was saved!
+2016-05-30T01:14:29+00:00 DEBUG (7): 4139 with name Test Product
+
+2016-05-30T01:19:12+00:00 DEBUG (7): 1212265465489456 was saved!
+2016-05-30T01:19:12+00:00 DEBUG (7): 4140 with name Test Product
+
+2016-05-30T01:22:18+00:00 DEBUG (7): 1212265465489456 was saved!
+2016-05-30T01:22:18+00:00 DEBUG (7): 4141 with name Test Product
+
+2016-05-30T01:23:43+00:00 DEBUG (7): 1212265465489456 was saved!
+2016-05-30T01:23:43+00:00 DEBUG (7): 4142 with name Test Product
+
+2016-05-30T01:23:43+00:00 ERR (3): Warning: is_readable() expects parameter 1 to be a valid path, string given  in /var/www/html/lib/Varien/Io/File.php on line 535
+2016-05-30T01:36:49+00:00 DEBUG (7): 1212265465489456 was saved!
+2016-05-30T01:36:49+00:00 DEBUG (7): 4143 with name Test Product
+
+2016-05-30T01:36:50+00:00 ERR (3): Notice: Undefined offset: 0  in /var/www/html/app/code/local/Centroida/Observer/Model/Observer.php on line 25
+2016-05-30T01:36:50+00:00 ERR (3): Notice: Undefined offset: 0  in /var/www/html/app/code/local/Centroida/Observer/Model/Observer.php on line 26
+2016-05-30T01:36:50+00:00 ERR (3): Notice: Undefined offset: 0  in /var/www/html/app/code/local/Centroida/Observer/Model/Observer.php on line 27
+2016-05-30T01:36:50+00:00 DEBUG (7): Fixed the image \n
+2016-05-30T01:36:50+00:00 ERR (3): Warning: is_readable() expects parameter 1 to be a valid path, string given  in /var/www/html/lib/Varien/Io/File.php on line 535
+2016-05-30T01:39:03+00:00 DEBUG (7): 1212265465489456 was saved!
+2016-05-30T01:39:03+00:00 DEBUG (7): 4144 with name Test Product
+
+2016-05-30T01:39:03+00:00 DEBUG (7): a:2:{s:6:"images";a:0:{}s:6:"values";a:0:{}}
+2016-05-30T01:39:03+00:00 ERR (3): Notice: Undefined offset: 0  in /var/www/html/app/code/local/Centroida/Observer/Model/Observer.php on line 27
+2016-05-30T01:39:03+00:00 ERR (3): Notice: Undefined offset: 0  in /var/www/html/app/code/local/Centroida/Observer/Model/Observer.php on line 28
+2016-05-30T01:39:03+00:00 ERR (3): Notice: Undefined offset: 0  in /var/www/html/app/code/local/Centroida/Observer/Model/Observer.php on line 29
+2016-05-30T01:39:03+00:00 DEBUG (7): Fixed the image 
+
+2016-05-30T01:39:04+00:00 ERR (3): Warning: is_readable() expects parameter 1 to be a valid path, string given  in /var/www/html/lib/Varien/Io/File.php on line 535
+2016-05-30T01:54:56+00:00 DEBUG (7): 4145 with name Test Product was set website
+
+2016-05-30T01:54:56+00:00 ERR (3): Warning: is_readable() expects parameter 1 to be a valid path, string given  in /var/www/html/lib/Varien/Io/File.php on line 535
+2016-05-30T01:54:56+00:00 DEBUG (7): 1212265465489456 - /i/m/image_3.jpg
+2016-05-30T01:54:57+00:00 DEBUG (7): 4145 with name Test Product was fixed image
+

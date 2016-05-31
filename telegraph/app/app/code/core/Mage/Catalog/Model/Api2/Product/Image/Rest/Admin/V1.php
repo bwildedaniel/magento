@@ -85,6 +85,9 @@ class Mage_Catalog_Model_Api2_Product_Image_Rest_Admin_V1 extends Mage_Catalog_M
                 $this->_getMediaGallery()->setMediaAttribute($product, $data['types'], $imageFileUri);
             }
             $product->save();
+            
+            Mage::dispatchEvent('rest_api_image_upload', array('sku' => $product->getSku(), 'image' => $imageFileUri));
+            
             return $this->_getImageLocation($this->_getCreatedImageId($imageFileUri));
         } catch (Mage_Core_Exception $e) {
             $this->_critical($e->getMessage(), Mage_Api2_Model_Server::HTTP_INTERNAL_ERROR);

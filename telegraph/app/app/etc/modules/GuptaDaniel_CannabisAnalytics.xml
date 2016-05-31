@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+    <config>
+        <modules>
+            <GuptaDaniel_CannabisAnalytics>
+                <active>true</active>
+                <codePool>local</codePool>
+            </GuptaDaniel_CannabisAnalytics>
+        </modules>
+    </config>

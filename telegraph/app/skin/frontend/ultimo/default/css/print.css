@@ -38,3 +38,12 @@ th,td { color:#2f2f2f !important;  border-color:#ccc !important; }
 
 .page-print .data-table .cart-tax-total { background-position:100% -54px; }
 .page-print .data-table .cart-tax-info { display:block !important; }
+
+.right-column{
+	float: right;
+	margin-right: 8px;
+}
+
+@media only screen and (max-width: 479px) {
+	.caption .heading.permanent {background-color: rgba(255, 255, 255, 0.7);}
+}
