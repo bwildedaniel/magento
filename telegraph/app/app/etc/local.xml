@@ -47,7 +47,7 @@
                     <host><![CDATA[173.194.232.52]]></host>
                     <username><![CDATA[magento]]></username>
                     <password><![CDATA[hMXaTPwIlAUPyu7lF63c]]></password>
-                    <dbname><![CDATA[howdy]]></dbname>
+                    <dbname><![CDATA[solong]]></dbname>
                     <initStatements><![CDATA[SET NAMES utf8]]></initStatements>
                     <model><![CDATA[mysql4]]></model>
                     <type><![CDATA[pdo_mysql]]></type>
