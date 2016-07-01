@@ -17,15 +17,13 @@
       </restextender>
     </models>
     <resources>
-        <restextender>
-          <setup>
-            <module>Sibers_RESTExtender</module>
-            <class>Mage_Eav_Model_Entity_Setup</class>
-          </setup>
-          <connection>
-            <use>default_setup</use>
-          </connection>
-        </restextender>
+      <restextender_setup>
+        <module>Sibers_RESTExtender</module>
+        <class>Mage_Eav_Model_Entity_Setup</class>
+      </restextender_setup>
+      <connection>
+        <use>default_setup</use>
+      </connection>
     </resources>
     <blocks>
       <adminhtml>

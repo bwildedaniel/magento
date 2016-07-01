@@ -1054,3 +1054,446 @@
     [__pid] => 25260
 )
 
+2016-06-12T19:57:44+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 29108
+)
+
+2016-06-12T19:57:44+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 29108
+)
+
+2016-06-12T19:57:44+00:00 DEBUG (7): Array
+(
+    [0] => listMemberInfo
+    [__pid] => 29108
+)
+
+2016-06-12T19:57:44+00:00 DEBUG (7): Array
+(
+    [0] => cda0795cce
+    [1] => leighfrisbey@comcast.net
+    [__pid] => 29108
+)
+
+2016-06-12T19:57:44+00:00 DEBUG (7): Array
+(
+    [success] => 0
+    [errors] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [email_address] => leighfrisbey@comcast.net
+                    [error] => The email address passed does not exist on this list
+                )
+
+        )
+
+    [__pid] => 29108
+)
+
+2016-06-12T19:57:44+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 29108
+)
+
+2016-06-12T19:57:44+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 29108
+)
+
+2016-06-12T19:57:44+00:00 DEBUG (7): Array
+(
+    [0] => listSubscribe
+    [__pid] => 29108
+)
+
+2016-06-12T19:57:44+00:00 DEBUG (7): Array
+(
+    [0] => cda0795cce
+    [1] => leighfrisbey@comcast.net
+    [2] => Array
+        (
+            [STOREID] => 1
+            [STORECRED] => 
+            [CGROUP] => NOT LOGGED IN
+            [STORECOD] => default
+            [GROUPINGS] => Array
+                (
+                )
+
+        )
+
+    [3] => html
+    [4] => 
+    [5] => 1
+    [__pid] => 29108
+)
+
+2016-06-12T19:57:44+00:00 DEBUG (7): Array
+(
+    [0] => 1
+    [__pid] => 29108
+)
+
+2016-06-15T02:22:33+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 29108
+)
+
+2016-06-15T02:22:33+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 29108
+)
+
+2016-06-15T02:22:33+00:00 DEBUG (7): Array
+(
+    [0] => listMemberInfo
+    [__pid] => 29108
+)
+
+2016-06-15T02:22:33+00:00 DEBUG (7): Array
+(
+    [0] => cda0795cce
+    [1] => field.lacey@gmail.com
+    [__pid] => 29108
+)
+
+2016-06-15T02:22:33+00:00 DEBUG (7): Array
+(
+    [success] => 0
+    [errors] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [email_address] => field.lacey@gmail.com
+                    [error] => The email address passed does not exist on this list
+                )
+
+        )
+
+    [__pid] => 29108
+)
+
+2016-06-15T02:22:33+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 29108
+)
+
+2016-06-15T02:22:33+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 29108
+)
+
+2016-06-15T02:22:33+00:00 DEBUG (7): Array
+(
+    [0] => listSubscribe
+    [__pid] => 29108
+)
+
+2016-06-15T02:22:33+00:00 DEBUG (7): Array
+(
+    [0] => cda0795cce
+    [1] => field.lacey@gmail.com
+    [2] => Array
+        (
+            [STOREID] => 1
+            [STORECRED] => 
+            [CGROUP] => NOT LOGGED IN
+            [STORECOD] => default
+            [GROUPINGS] => Array
+                (
+                )
+
+        )
+
+    [3] => html
+    [4] => 
+    [5] => 1
+    [__pid] => 29108
+)
+
+2016-06-15T02:22:34+00:00 DEBUG (7): Array
+(
+    [0] => 1
+    [__pid] => 29108
+)
+
+2016-06-30T19:35:36+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 1240
+)
+
+2016-06-30T19:35:36+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 1240
+)
+
+2016-06-30T19:35:36+00:00 DEBUG (7): Array
+(
+    [0] => listsForEmail
+    [__pid] => 1240
+)
+
+2016-06-30T19:35:36+00:00 DEBUG (7): Array
+(
+    [0] => benjamin.daniel@outlook.com
+    [__pid] => 1240
+)
+
+2016-06-30T19:35:36+00:00 DEBUG (7): Array
+(
+    [0] => d02ffd1d5e
+    [__pid] => 1240
+)
+
+2016-06-30T19:35:36+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 1240
+)
+
+2016-06-30T19:35:36+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 1240
+)
+
+2016-06-30T19:35:36+00:00 DEBUG (7): Array
+(
+    [0] => listMemberActivity
+    [__pid] => 1240
+)
+
+2016-06-30T19:35:36+00:00 DEBUG (7): Array
+(
+    [0] => d02ffd1d5e
+    [1] => benjamin.daniel@outlook.com
+    [__pid] => 1240
+)
+
+2016-06-30T19:35:36+00:00 DEBUG (7): Array
+(
+    [success] => 1
+    [errors] => 
+    [data] => Array
+        (
+            [0] => Array
+                (
+                )
+
+        )
+
+    [__pid] => 1240
+)
+
+2016-06-30T19:35:39+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 1237
+)
+
+2016-06-30T19:35:39+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 1237
+)
+
+2016-06-30T19:35:39+00:00 DEBUG (7): Array
+(
+    [0] => listsForEmail
+    [__pid] => 1237
+)
+
+2016-06-30T19:35:39+00:00 DEBUG (7): Array
+(
+    [0] => benjamin.daniel@outlook.com
+    [__pid] => 1237
+)
+
+2016-06-30T19:35:39+00:00 DEBUG (7): Array
+(
+    [0] => d02ffd1d5e
+    [__pid] => 1237
+)
+
+2016-06-30T19:35:39+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 1237
+)
+
+2016-06-30T19:35:39+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 1237
+)
+
+2016-06-30T19:35:39+00:00 DEBUG (7): Array
+(
+    [0] => listMemberActivity
+    [__pid] => 1237
+)
+
+2016-06-30T19:35:39+00:00 DEBUG (7): Array
+(
+    [0] => d02ffd1d5e
+    [1] => benjamin.daniel@outlook.com
+    [__pid] => 1237
+)
+
+2016-06-30T19:35:39+00:00 DEBUG (7): Array
+(
+    [success] => 1
+    [errors] => 
+    [data] => Array
+        (
+            [0] => Array
+                (
+                )
+
+        )
+
+    [__pid] => 1237
+)
+
+2016-06-30T19:35:40+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 1238
+)
+
+2016-06-30T19:35:40+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 1238
+)
+
+2016-06-30T19:35:40+00:00 DEBUG (7): Array
+(
+    [0] => listUnsubscribe
+    [__pid] => 1238
+)
+
+2016-06-30T19:35:40+00:00 DEBUG (7): Array
+(
+    [0] => cda0795cce
+    [1] => benjamin.daniel@outlook.com
+    [__pid] => 1238
+)
+
+2016-06-30T19:35:40+00:00 DEBUG (7): Array
+(
+    [0] => 
+    [__pid] => 1238
+)
+
+2016-06-30T19:35:40+00:00 DEBUG (7): Array
+(
+    [0] => Error: benjamin.daniel@outlook.com is not subscribed to list Newsletter, code 215
+    [__pid] => 1238
+)
+
+2016-07-01T00:51:18+00:00 DEBUG (7): Array
+(
+    [0] => us11.api.mailchimp.com
+    [__pid] => 1225
+)
+
+2016-07-01T00:51:18+00:00 DEBUG (7): Array
+(
+    [0] => edfc123b7de878adbfdd89ae7255ec01-us11
+    [__pid] => 1225
+)
+
+2016-07-01T00:51:18+00:00 DEBUG (7): Array
+(
+    [0] => listMemberInfo
+    [__pid] => 1225
+)
+
+2016-07-01T00:51:18+00:00 DEBUG (7): Array
+(
+    [0] => cda0795cce
+    [1] => larnaean@gmail.com
+    [__pid] => 1225
+)
+
+2016-07-01T00:51:18+00:00 DEBUG (7): Array
+(
+    [success] => 1
+    [errors] => 0
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [email] => larnaean@gmail.com
+                    [id] => 350caa07ab
+                    [euid] => 350caa07ab
+                    [email_type] => html
+                    [ip_signup] => 
+                    [timestamp_signup] => 
+                    [ip_opt] => 
+                    [timestamp_opt] => 2016-04-26 12:09:58
+                    [member_rating] => 2
+                    [info_changed] => 2016-04-26 12:09:58
+                    [web_id] => 223550945
+                    [leid] => 223550945
+                    [language] => 
+                    [list_id] => cda0795cce
+                    [list_name] => Newsletter
+                    [merges] => Array
+                        (
+                            [EMAIL] => larnaean@gmail.com
+                            [FNAME] => Antonio
+                            [LNAME] => Castrejon
+                            [CGROUP] => 
+                        )
+
+                    [status] => subscribed
+                    [timestamp] => 2016-04-26 12:09:58
+                    [is_gmonkey] => 
+                    [lists] => Array
+                        (
+                            [c237094974] => subscribed
+                            [4a0acacd5f] => subscribed
+                        )
+
+                    [geo] => Array
+                        (
+                        )
+
+                    [clients] => Array
+                        (
+                            [name] => Gmail
+                            [icon_url] => http://us11.admin.mailchimp.com/images/email-client-icons/gmail.png
+                        )
+
+                    [static_segments] => Array
+                        (
+                        )
+
+                    [notes] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [__pid] => 1225
+)
+

@@ -33,10 +33,10 @@
         <resources>
             <default_setup>
                 <connection>
-                    <host>localhost</host>
+                    <host>104.196.152.107</host>
                     <username/>
                     <password/>
-                    <dbname>vespero</dbname>
+                    <dbname>solong</dbname>
                     <model>mysql4</model>
                     <initStatements>SET NAMES utf8</initStatements>
                     <type>pdo_mysql</type>
