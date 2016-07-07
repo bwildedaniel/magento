@@ -1,71 +1,356 @@
-2016-05-29T00:51:54+00:00 DEBUG (7): retrieveCollection method
-2016-05-29T01:54:25+00:00 DEBUG (7): We just made an Observer!
-2016-05-29T01:59:19+00:00 DEBUG (7): 
-2016-05-29T01:59:19+00:00 DEBUG (7): We just made an Observer!
-2016-05-29T02:03:39+00:00 DEBUG (7): 
-2016-05-29T02:03:39+00:00 DEBUG (7): We just made an Observer!
-2016-05-29T02:09:36+00:00 DEBUG (7): 23132131231231
-2016-05-29T02:09:36+00:00 DEBUG (7): We just made an Observer!
-2016-05-29T02:13:03+00:00 DEBUG (7): 23132131231231 was saved!
-2016-05-29T02:13:03+00:00 DEBUG (7): 100.0000
-2016-05-29T02:15:53+00:00 DEBUG (7): 23132131231231 was saved!
-2016-05-29T02:15:53+00:00 DEBUG (7): 100.0000
-2016-05-29T02:17:38+00:00 DEBUG (7): 23132131231231 was saved!
-2016-05-29T02:17:38+00:00 DEBUG (7): 100.0000
-2016-05-29T02:17:38+00:00 DEBUG (7): 4132 with name Test name
+2016-06-29T21:32:55+00:00 ERR (3): Warning: Missing argument 1 for Mage_Core_Model_Resource::getConnection(), called in /var/www/html/app/code/community/Ebizmarts/MageMonkey/Block/Adminhtml/System/Config/UpgradeForPatch.php on line 60 and defined  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 84
+2016-06-29T21:32:55+00:00 ERR (3): Notice: Undefined variable: name  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 86
+2016-06-29T21:32:55+00:00 ERR (3): Notice: Undefined variable: name  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 94
+2016-06-29T21:32:55+00:00 ERR (3): Notice: Undefined variable: name  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 97
+2016-06-29T21:32:55+00:00 ERR (3): Notice: Undefined variable: name  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 97
+2016-06-29T21:32:55+00:00 ERR (3): Notice: Undefined variable: name  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 98
+2016-06-29T21:32:57+00:00 ERR (3): Warning: Missing argument 1 for Mage_Core_Model_Resource::getConnection(), called in /var/www/html/app/code/community/Ebizmarts/MageMonkey/Block/Adminhtml/System/Config/UpgradeForPatch.php on line 60 and defined  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 84
+2016-06-29T21:32:57+00:00 ERR (3): Notice: Undefined variable: name  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 86
+2016-06-29T21:32:57+00:00 ERR (3): Notice: Undefined variable: name  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 94
+2016-06-29T21:32:57+00:00 ERR (3): Notice: Undefined variable: name  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 97
+2016-06-29T21:32:57+00:00 ERR (3): Notice: Undefined variable: name  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 97
+2016-06-29T21:32:57+00:00 ERR (3): Notice: Undefined variable: name  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 98
+2016-06-29T21:32:59+00:00 ERR (3): Warning: Missing argument 1 for Mage_Core_Model_Resource::getConnection(), called in /var/www/html/app/code/community/Ebizmarts/MageMonkey/Block/Adminhtml/System/Config/UpgradeForPatch.php on line 60 and defined  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 84
+2016-06-29T21:32:59+00:00 ERR (3): Notice: Undefined variable: name  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 86
+2016-06-29T21:32:59+00:00 ERR (3): Notice: Undefined variable: name  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 94
+2016-06-29T21:32:59+00:00 ERR (3): Notice: Undefined variable: name  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 97
+2016-06-29T21:32:59+00:00 ERR (3): Notice: Undefined variable: name  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 97
+2016-06-29T21:32:59+00:00 ERR (3): Notice: Undefined variable: name  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 98
+2016-06-30T20:21:03+00:00 DEBUG (7): Array
+(
+)
 
-2016-05-29T02:30:24+00:00 DEBUG (7): 23132131231231 was saved!
-2016-05-29T02:30:24+00:00 DEBUG (7): 4133 with name Test name | website_id = 
-
-2016-05-29T02:32:19+00:00 DEBUG (7): 23132131231231 was saved!
-2016-05-29T02:32:19+00:00 ERR (3): Notice: Array to string conversion  in /var/www/html/app/code/local/Centroida/Observer/Model/Observer.php on line 19
-2016-05-29T02:32:19+00:00 DEBUG (7): 4134 with name Test name | website_id = Array
-
-2016-05-29T02:34:13+00:00 DEBUG (7): 23132131231231 was saved!
-2016-05-29T02:34:13+00:00 DEBUG (7): 4136 with name Test name | website_id = a:1:{i:0;s:1:"1";}
-
-2016-05-29T02:35:25+00:00 DEBUG (7): 23132131231231 was saved!
-2016-05-29T02:35:25+00:00 DEBUG (7): 4137 with name Test name | website_id = a:0:{}
-
-2016-05-29T02:35:25+00:00 DEBUG (7): 4137 with name Test name | website_id = a:1:{i:0;s:1:"1";}
-
-2016-05-30T01:12:58+00:00 DEBUG (7): 1212265465489456 was saved!
-2016-05-30T01:12:58+00:00 DEBUG (7): 4138 with name Test Product
-
-2016-05-30T01:14:29+00:00 DEBUG (7): 1212265465489456 was saved!
-2016-05-30T01:14:29+00:00 DEBUG (7): 4139 with name Test Product
-
-2016-05-30T01:19:12+00:00 DEBUG (7): 1212265465489456 was saved!
-2016-05-30T01:19:12+00:00 DEBUG (7): 4140 with name Test Product
-
-2016-05-30T01:22:18+00:00 DEBUG (7): 1212265465489456 was saved!
-2016-05-30T01:22:18+00:00 DEBUG (7): 4141 with name Test Product
-
-2016-05-30T01:23:43+00:00 DEBUG (7): 1212265465489456 was saved!
-2016-05-30T01:23:43+00:00 DEBUG (7): 4142 with name Test Product
-
-2016-05-30T01:23:43+00:00 ERR (3): Warning: is_readable() expects parameter 1 to be a valid path, string given  in /var/www/html/lib/Varien/Io/File.php on line 535
-2016-05-30T01:36:49+00:00 DEBUG (7): 1212265465489456 was saved!
-2016-05-30T01:36:49+00:00 DEBUG (7): 4143 with name Test Product
-
-2016-05-30T01:36:50+00:00 ERR (3): Notice: Undefined offset: 0  in /var/www/html/app/code/local/Centroida/Observer/Model/Observer.php on line 25
-2016-05-30T01:36:50+00:00 ERR (3): Notice: Undefined offset: 0  in /var/www/html/app/code/local/Centroida/Observer/Model/Observer.php on line 26
-2016-05-30T01:36:50+00:00 ERR (3): Notice: Undefined offset: 0  in /var/www/html/app/code/local/Centroida/Observer/Model/Observer.php on line 27
-2016-05-30T01:36:50+00:00 DEBUG (7): Fixed the image \n
-2016-05-30T01:36:50+00:00 ERR (3): Warning: is_readable() expects parameter 1 to be a valid path, string given  in /var/www/html/lib/Varien/Io/File.php on line 535
-2016-05-30T01:39:03+00:00 DEBUG (7): 1212265465489456 was saved!
-2016-05-30T01:39:03+00:00 DEBUG (7): 4144 with name Test Product
-
-2016-05-30T01:39:03+00:00 DEBUG (7): a:2:{s:6:"images";a:0:{}s:6:"values";a:0:{}}
-2016-05-30T01:39:03+00:00 ERR (3): Notice: Undefined offset: 0  in /var/www/html/app/code/local/Centroida/Observer/Model/Observer.php on line 27
-2016-05-30T01:39:03+00:00 ERR (3): Notice: Undefined offset: 0  in /var/www/html/app/code/local/Centroida/Observer/Model/Observer.php on line 28
-2016-05-30T01:39:03+00:00 ERR (3): Notice: Undefined offset: 0  in /var/www/html/app/code/local/Centroida/Observer/Model/Observer.php on line 29
-2016-05-30T01:39:03+00:00 DEBUG (7): Fixed the image 
-
-2016-05-30T01:39:04+00:00 ERR (3): Warning: is_readable() expects parameter 1 to be a valid path, string given  in /var/www/html/lib/Varien/Io/File.php on line 535
-2016-05-30T01:54:56+00:00 DEBUG (7): 4145 with name Test Product was set website
-
-2016-05-30T01:54:56+00:00 ERR (3): Warning: is_readable() expects parameter 1 to be a valid path, string given  in /var/www/html/lib/Varien/Io/File.php on line 535
-2016-05-30T01:54:56+00:00 DEBUG (7): 1212265465489456 - /i/m/image_3.jpg
-2016-05-30T01:54:57+00:00 DEBUG (7): 4145 with name Test Product was fixed image
-
+2016-06-30T20:39:35+00:00 ERR (3): Warning: Missing argument 1 for Mage_Core_Model_Resource::getConnection(), called in /var/www/html/app/code/community/Ebizmarts/MageMonkey/Block/Adminhtml/System/Config/UpgradeForPatch.php on line 60 and defined  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 84
+2016-06-30T20:39:35+00:00 ERR (3): Notice: Undefined variable: name  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 86
+2016-06-30T20:39:35+00:00 ERR (3): Notice: Undefined variable: name  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 94
+2016-06-30T20:39:35+00:00 ERR (3): Notice: Undefined variable: name  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 97
+2016-06-30T20:39:35+00:00 ERR (3): Notice: Undefined variable: name  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 97
+2016-06-30T20:39:35+00:00 ERR (3): Notice: Undefined variable: name  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 98
+2016-06-30T20:40:18+00:00 ERR (3): Warning: Missing argument 1 for Mage_Core_Model_Resource::getConnection(), called in /var/www/html/app/code/community/Ebizmarts/MageMonkey/Block/Adminhtml/System/Config/UpgradeForPatch.php on line 60 and defined  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 84
+2016-06-30T20:40:18+00:00 ERR (3): Notice: Undefined variable: name  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 86
+2016-06-30T20:40:18+00:00 ERR (3): Notice: Undefined variable: name  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 94
+2016-06-30T20:40:18+00:00 ERR (3): Notice: Undefined variable: name  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 97
+2016-06-30T20:40:18+00:00 ERR (3): Notice: Undefined variable: name  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 97
+2016-06-30T20:40:18+00:00 ERR (3): Notice: Undefined variable: name  in /var/www/html/app/code/core/Mage/Core/Model/Resource.php on line 98
+2016-07-02T19:56:52+00:00 ERR (3): Warning: array_merge(): Argument #2 is not an array  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Api/Groups.php on line 26
+2016-07-02T19:56:52+00:00 ERR (3): Warning: array_column() expects parameter 1 to be array, null given  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Resource/Tickets/Collection.php on line 131
+2016-07-02T19:56:52+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Resource/Tickets/Collection.php on line 133
+2016-07-02T19:56:54+00:00 ERR (3): Warning: array_column() expects parameter 1 to be array, null given  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Resource/Tickets/Collection.php on line 131
+2016-07-02T19:56:54+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Resource/Tickets/Collection.php on line 133
+2016-07-03T20:29:36+00:00 ERR (3): Warning: array_merge(): Argument #2 is not an array  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Api/Groups.php on line 26
+2016-07-03T20:29:36+00:00 ERR (3): Warning: array_column() expects parameter 1 to be array, null given  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Resource/Tickets/Collection.php on line 131
+2016-07-03T20:29:36+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Resource/Tickets/Collection.php on line 133
+2016-07-03T20:29:39+00:00 ERR (3): Warning: array_column() expects parameter 1 to be array, null given  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Resource/Tickets/Collection.php on line 131
+2016-07-03T20:29:39+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Resource/Tickets/Collection.php on line 133
+2016-07-05T19:26:21+00:00 ERR (3): Warning: array_merge(): Argument #2 is not an array  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Api/Groups.php on line 26
+2016-07-05T19:26:21+00:00 ERR (3): Warning: array_column() expects parameter 1 to be array, null given  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Resource/Tickets/Collection.php on line 131
+2016-07-05T19:26:21+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Resource/Tickets/Collection.php on line 133
+2016-07-05T19:26:25+00:00 ERR (3): Warning: array_column() expects parameter 1 to be array, null given  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Resource/Tickets/Collection.php on line 131
+2016-07-05T19:26:25+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Resource/Tickets/Collection.php on line 133
+2016-07-05T21:39:11+00:00 ERR (3): Warning: array_merge(): Argument #2 is not an array  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Api/Groups.php on line 26
+2016-07-05T21:39:12+00:00 ERR (3): Warning: array_column() expects parameter 1 to be array, null given  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Resource/Tickets/Collection.php on line 131
+2016-07-05T21:39:12+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Resource/Tickets/Collection.php on line 133
+2016-07-05T21:39:13+00:00 ERR (3): Warning: array_column() expects parameter 1 to be array, null given  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Resource/Tickets/Collection.php on line 131
+2016-07-05T21:39:13+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Resource/Tickets/Collection.php on line 133
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Adminhtml/Edit/Fields): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Adminhtml/Edit/Fields/Type): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Adminhtml/Edit/Fields/Type): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Adminhtml/Edit/Fields/Type): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Adminhtml/Edit): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Adminhtml/Edit): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Adminhtml): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Adminhtml): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Adminhtml/Order): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Adminhtml/Order): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Adminhtml/Order): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Adminhtml/Order): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Adminhtml): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Adminhtml): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Onepage/Step): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Onepage): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Order): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Helper): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Field): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource/Field): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource/Field): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource/Field): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource/Field/Value): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource/Field): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource/Sale/Order): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource/Sale/Order/Value): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource/Sale/Order): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource/Sale): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource/Sale/Quote): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource/Sale/Quote/Value): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource/Sale/Quote): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource/Sale): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource/Step): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Sale/Order): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Sale): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Sale/Quote): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Sale): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Sale/Total): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Sale/Total): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Sale/Total): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/controllers/Adminhtml/Checkout): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/controllers): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/etc): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/etc): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/etc): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/etc): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/sql/bricks_checkout_setup): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/adminhtml/default/default/layout/bricks): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/adminhtml/default/default/template/bricks/checkout/field): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/adminhtml/default/default/template/bricks/checkout/field): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/adminhtml/default/default/template/bricks/checkout): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/adminhtml/default/default/template/bricks/checkout): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/adminhtml/default/default/template/bricks/checkout/order): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/frontend/base/default/layout/bricks): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/frontend/base/default/template/bricks/checkout/onepage/form): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/frontend/base/default/template/bricks/checkout/onepage/form): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/frontend/base/default/template/bricks/checkout/onepage/form): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/frontend/base/default/template/bricks/checkout/onepage/form): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/frontend/base/default/template/bricks/checkout/onepage/form): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/frontend/base/default/template/bricks/checkout/onepage): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/frontend/base/default/template/bricks/checkout): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/frontend/base/default/template/bricks/checkout/order): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:40:57+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-05T21:54:12+00:00 ERR (3): Warning: array_column() expects parameter 1 to be array, null given  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Resource/Tickets/Collection.php on line 131
+2016-07-05T21:54:12+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Resource/Tickets/Collection.php on line 133
+2016-07-05T21:54:15+00:00 ERR (3): Warning: array_column() expects parameter 1 to be array, null given  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Resource/Tickets/Collection.php on line 131
+2016-07-05T21:54:15+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Resource/Tickets/Collection.php on line 133
+2016-07-06T01:55:53+00:00 ERR (3): Warning: array_merge(): Argument #2 is not an array  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Api/Groups.php on line 26
+2016-07-06T01:55:54+00:00 ERR (3): Warning: array_column() expects parameter 1 to be array, null given  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Resource/Tickets/Collection.php on line 131
+2016-07-06T01:55:54+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Resource/Tickets/Collection.php on line 133
+2016-07-06T01:55:56+00:00 ERR (3): Warning: array_column() expects parameter 1 to be array, null given  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Resource/Tickets/Collection.php on line 131
+2016-07-06T01:55:56+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Resource/Tickets/Collection.php on line 133
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Adminhtml/Edit/Fields): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Adminhtml/Edit/Fields/Type): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Adminhtml/Edit/Fields/Type): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Adminhtml/Edit/Fields/Type): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Adminhtml/Edit): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Adminhtml/Edit): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Adminhtml): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Adminhtml): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Adminhtml/Order): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Adminhtml/Order): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Adminhtml/Order): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Adminhtml/Order): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Adminhtml): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Adminhtml): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Onepage/Step): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Onepage): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Block/Order): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Helper): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Field): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource/Field): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource/Field): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource/Field): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource/Field/Value): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource/Field): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource/Sale/Order): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource/Sale/Order/Value): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource/Sale/Order): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource/Sale): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource/Sale/Quote): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource/Sale/Quote/Value): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource/Sale/Quote): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource/Sale): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource/Step): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Resource): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Sale/Order): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Sale): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Sale/Quote): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Sale): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Sale/Total): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Sale/Total): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model/Sale/Total): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/Model): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/controllers/Adminhtml/Checkout): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/controllers): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/etc): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/etc): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/etc): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/etc): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/code/community/Bricks/Checkout/sql/bricks_checkout_setup): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/adminhtml/default/default/layout/bricks): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/adminhtml/default/default/template/bricks/checkout/field): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/adminhtml/default/default/template/bricks/checkout/field): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/adminhtml/default/default/template/bricks/checkout): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/adminhtml/default/default/template/bricks/checkout): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/adminhtml/default/default/template/bricks/checkout/order): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/frontend/base/default/layout/bricks): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/frontend/base/default/template/bricks/checkout/onepage/form): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/frontend/base/default/template/bricks/checkout/onepage/form): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/frontend/base/default/template/bricks/checkout/onepage/form): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/frontend/base/default/template/bricks/checkout/onepage/form): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/frontend/base/default/template/bricks/checkout/onepage/form): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/frontend/base/default/template/bricks/checkout/onepage): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/frontend/base/default/template/bricks/checkout): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(/var/www/html/downloader/.././app/design/frontend/base/default/template/bricks/checkout/order): failed to open dir: No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T02:04:11+00:00 ERR (3): Warning: scandir(): (errno 2): No such file or directory  in /var/www/html/downloader/lib/Mage/Connect/Packager.php on line 243
+2016-07-06T16:42:18+00:00 ERR (3): Warning: array_merge(): Argument #2 is not an array  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Api/Groups.php on line 26
+2016-07-06T16:42:18+00:00 ERR (3): Warning: array_column() expects parameter 1 to be array, null given  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Resource/Tickets/Collection.php on line 131
+2016-07-06T16:42:18+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Resource/Tickets/Collection.php on line 133
+2016-07-06T16:42:21+00:00 ERR (3): Warning: array_column() expects parameter 1 to be array, null given  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Resource/Tickets/Collection.php on line 131
+2016-07-06T16:42:21+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in /var/www/html/app/code/community/Zendesk/Zendesk/Model/Resource/Tickets/Collection.php on line 133

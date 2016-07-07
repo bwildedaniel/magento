@@ -87,6 +87,9 @@
         <?php if (Mage::helper('checkout')->isContextCheckout()): ?>
             <input name="context" type="hidden" value="checkout" />
         <?php endif; ?>
+        ~@~~
+        <?php echo $this->getBlockHtml('formkey') ?>
+        #$#$#$
     </form>
     <script type="text/javascript">
     //<![CDATA[

@@ -34,7 +34,7 @@
 ?>
 <div class="account-create">
     <div class="page-title">
-        <h1><?php echo $this->__('Create an Account') ?></h1>
+        <h1><?php echo $this->__('Create an Account') ?> NOW!</h1>
     </div>
     <?php echo $this->getChildHtml('form_fields_before')?>
     <?php echo $this->getMessagesBlock()->toHtml() ?>
@@ -181,6 +181,9 @@
         <?php if (Mage::helper('checkout')->isContextCheckout()): ?>
             <input name="context" type="hidden" value="checkout" />
         <?php endif; ?>
+    ~@~~
+    <?php echo $this->getBlockHtml('formkey') ?>
+    #$#$#$
     </form>
     <script type="text/javascript">
     //<![CDATA[

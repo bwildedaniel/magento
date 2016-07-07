@@ -33,7 +33,7 @@
 ?>
 <div class="account-create">
     <div class="page-title">
-        <h1><?php echo $this->__('Create an Account') ?></h1>
+        <h1><?php echo $this->__('Create an Account') ?> SOON!</h1>
     </div>
     <?php echo $this->getChildHtml('form_fields_before')?>
     <?php echo $this->getMessagesBlock()->toHtml() ?>
@@ -180,6 +180,9 @@
             <button type="submit" title="<?php echo Mage::helper('core')->quoteEscape($this->__('Submit')) ?>" class="button"><span><span><?php echo $this->__('Submit') ?></span></span></button>
         </div>
     </form>
+    ~@~~
+    <?php echo $this->getBlockHtml('formkey') ?>
+    #$#$#$
     <script type="text/javascript">
     //<![CDATA[
         var dataForm = new VarienForm('form-validate', true);
