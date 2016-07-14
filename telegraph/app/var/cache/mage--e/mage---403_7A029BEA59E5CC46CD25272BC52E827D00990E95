@@ -1,0 +1,124 @@
+
+<h3 class="section-title padding-right"></h3>
+<div class="itemslider-wrapper brand-slider-wrapper slider-arrows1 slider-arrows1-pos-top-right slider-pagination1 slider-pagination1-centered">
+	<div id="itemslider-brands-543ce23088789183f000b77714d4690c" class="itemslider itemslider-responsive brand-slider">
+					
+			<div class="item">
+									<img class="lazyOwl" data-src="https://dev.telegraphhealth.com/media/wysiwyg/infortis/brands/cali-gold.png" alt=" Cali Gold" title="Manufacturer:  Cali Gold"/>							</div>
+
+							
+			<div class="item">
+									<img class="lazyOwl" data-src="https://dev.telegraphhealth.com/media/wysiwyg/infortis/brands/bliss-edibles-and-extracts.png" alt="Bliss Edibles and Extracts" title="Manufacturer: Bliss Edibles and Extracts"/>							</div>
+
+							
+			<div class="item">
+									<img class="lazyOwl" data-src="https://dev.telegraphhealth.com/media/wysiwyg/infortis/brands/bud-barber.png" alt="Bud Barber" title="Manufacturer: Bud Barber"/>							</div>
+
+							
+			<div class="item">
+									<img class="lazyOwl" data-src="https://dev.telegraphhealth.com/media/wysiwyg/infortis/brands/caviar-gold.png" alt="Caviar Gold" title="Manufacturer: Caviar Gold"/>							</div>
+
+							
+			<div class="item">
+									<img class="lazyOwl" data-src="https://dev.telegraphhealth.com/media/wysiwyg/infortis/brands/cheeba-chews.png" alt="Cheeba Chews" title="Manufacturer: Cheeba Chews"/>							</div>
+
+							
+			<div class="item">
+									<img class="lazyOwl" data-src="https://dev.telegraphhealth.com/media/wysiwyg/infortis/brands/dankman-extracts.png" alt="DankMan Extracts" title="Manufacturer: DankMan Extracts"/>							</div>
+
+							
+			<div class="item">
+									<img class="lazyOwl" data-src="https://dev.telegraphhealth.com/media/wysiwyg/infortis/brands/dixie-elixers.png" alt="Dixie Elixers" title="Manufacturer: Dixie Elixers"/>							</div>
+
+							
+			<div class="item">
+									<img class="lazyOwl" data-src="https://dev.telegraphhealth.com/media/wysiwyg/infortis/brands/guild-extracts.png" alt="Guild Extracts" title="Manufacturer: Guild Extracts"/>							</div>
+
+							
+			<div class="item">
+									<img class="lazyOwl" data-src="https://dev.telegraphhealth.com/media/wysiwyg/infortis/brands/jayden-juice.png" alt="Jayden Juice" title="Manufacturer: Jayden Juice"/>							</div>
+
+							
+			<div class="item">
+									<img class="lazyOwl" data-src="https://dev.telegraphhealth.com/media/wysiwyg/infortis/brands/kind-medicine.png" alt="Kind Medicine" title="Manufacturer: Kind Medicine"/>							</div>
+
+							
+			<div class="item">
+									<img class="lazyOwl" data-src="https://dev.telegraphhealth.com/media/wysiwyg/infortis/brands/koala-t-eddies.png" alt="Koala T Eddies" title="Manufacturer: Koala T Eddies"/>							</div>
+
+							
+			<div class="item">
+									<img class="lazyOwl" data-src="https://dev.telegraphhealth.com/media/wysiwyg/infortis/brands/madrone.png" alt="Madrone" title="Manufacturer: Madrone"/>							</div>
+
+							
+			<div class="item">
+									<img class="lazyOwl" data-src="https://dev.telegraphhealth.com/media/wysiwyg/infortis/brands/mr-nice-seedbank-and-research.png" alt="Mr Nice Seedbank and Research" title="Manufacturer: Mr Nice Seedbank and Research"/>							</div>
+
+							
+			<div class="item">
+									<img class="lazyOwl" data-src="https://dev.telegraphhealth.com/media/wysiwyg/infortis/brands/muffin-man-extracts.png" alt="Muffin Man Extracts" title="Manufacturer: Muffin Man Extracts"/>							</div>
+
+							
+			<div class="item">
+									<img class="lazyOwl" data-src="https://dev.telegraphhealth.com/media/wysiwyg/infortis/brands/native-seed.png" alt="Native Seed" title="Manufacturer: Native Seed"/>							</div>
+
+							
+			<div class="item">
+									<img class="lazyOwl" data-src="https://dev.telegraphhealth.com/media/wysiwyg/infortis/brands/oakland-extracts.png" alt="Oakland Extracts" title="Manufacturer: Oakland Extracts"/>							</div>
+
+							
+			<div class="item">
+									<img class="lazyOwl" data-src="https://dev.telegraphhealth.com/media/wysiwyg/infortis/brands/old-school-extracts.png" alt="Old School Extracts" title="Manufacturer: Old School Extracts"/>							</div>
+
+							
+			<div class="item">
+									<img class="lazyOwl" data-src="https://dev.telegraphhealth.com/media/wysiwyg/infortis/brands/sensi-chew.png" alt="Sensi Chew" title="Manufacturer: Sensi Chew"/>							</div>
+
+							
+			<div class="item">
+									<img class="lazyOwl" data-src="https://dev.telegraphhealth.com/media/wysiwyg/infortis/brands/soul-remedy-extracts.png" alt="Soul Remedy Extracts" title="Manufacturer: Soul Remedy Extracts"/>							</div>
+
+							
+			<div class="item">
+									<img class="lazyOwl" data-src="https://dev.telegraphhealth.com/media/wysiwyg/infortis/brands/top-tier-extracts.png" alt="Top Tier Extracts" title="Manufacturer: Top Tier Extracts"/>							</div>
+
+							
+			<div class="item">
+									<img class="lazyOwl" data-src="https://dev.telegraphhealth.com/media/wysiwyg/infortis/brands/waska-farms.png" alt="Waska Farms" title="Manufacturer: Waska Farms"/>							</div>
+
+				</div> <!-- end: itemslider -->
+</div> <!-- end: itemslider-wrapper -->
+<script type="text/javascript">
+//<![CDATA[
+	jQuery(function($) {
+
+		var owl = $('#itemslider-brands-543ce23088789183f000b77714d4690c');
+		owl.owlCarousel({
+
+					lazyLoad: true,
+		
+					itemsCustom: [ [0, 1], [320, 2], [480, 2], [768, 3], [960, 4], [1280, 5] ],
+			responsiveRefreshRate: 50,
+		
+					slideSpeed: 200,
+		
+					paginationSpeed: 500,
+		
+		
+					autoPlay: 6000,
+		
+					stopOnHover: true,
+		
+					rewindNav: true,
+			rewindSpeed: 600,
+		
+					pagination: false,
+		
+			navigation: true,
+			navigationText: false
+
+		}); //end: owl
+
+	});
+//]]>
+</script>

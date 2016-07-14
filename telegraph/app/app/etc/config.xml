@@ -33,14 +33,15 @@
         <resources>
             <default_setup>
                 <connection>
-                    <host>104.196.152.107</host>
-                    <username/>
-                    <password/>
-                    <dbname>solong</dbname>
-                    <model>mysql4</model>
-                    <initStatements>SET NAMES utf8</initStatements>
-                    <type>pdo_mysql</type>
-                    <active>0</active>
+                     <host><![CDATA[104.196.152.107]]></host>
+                    <username><![CDATA[magento]]></username>
+                    <password><![CDATA[hMXaTPwIlAUPyu7lF63c]]></password>
+                    <dbname><![CDATA[solong]]></dbname>
+                    <initStatements><![CDATA[SET NAMES utf8]]></initStatements>
+                    <model><![CDATA[mysql4]]></model>
+                    <type><![CDATA[pdo_mysql]]></type>
+                    <pdoType><![CDATA[]]></pdoType>
+                    <active>1</active>
                     <persistent>0</persistent>
                 </connection>
             </default_setup>

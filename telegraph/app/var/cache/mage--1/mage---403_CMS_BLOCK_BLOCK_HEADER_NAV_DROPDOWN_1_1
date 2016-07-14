@@ -1,0 +1,27 @@
+<div class="grid-container-spaced">
+	<div class="grid12-4">
+		<a  href="http://dev.telegraphhealth.com/index.php/about/?___SID=U"><h2>About</h2>
+		<p>Telegraph Health Center is Oakland California's preferred medical cannabis dispensary for medicinal marijuana flowers, concentrates, and infused products.</br>We provide patient members safe access to medical cannabis and services that supplement physician treatment plans.
+</p>
+		<a class="go" href="http://dev.telegraphhealth.com/index.php/about/?___SID=U" >Learn more </a>
+</a>	</div>
+
+<div class="grid12-4">
+
+		<a href="http://dev.telegraphhealth.com/index.php/faq/?___SID=U">
+			<img src="http://dev.telegraphhealth.com/skin/frontend/ultimo/default/images/telegraph_health_center_medical_cannabis_marijuana_building_exterior_1.jpg" class="fade-on-hover" alt="Telegraph Health Center FAQ" />
+		<h4 class="heading">FAQ</h4>
+		<p>Find answers to frequently asked questions including business hours, medical cannabis compliance, and Telegraph Health Center patient signup.</p>
+		<a href="http://telegraphhealth.zendesk.com/" class="go">Learn more</a></a>
+
+	</div>
+	<div class="grid12-4">
+
+		<a href="http://dev.telegraphhealth.com/index.php/tour/?___SID=U">
+			<img src="http://dev.telegraphhealth.com/skin/frontend/ultimo/default/images/telegraph_health_center_medical_cannabis_marijuana_dispensary_tour.jpg" class="fade-on-hover" alt="Telegraph Health Center 3D virtual tour"/>
+		<h4 class="heading">3D Tour</h4>
+		<p>Step inside Telegraph Health Center on a 3D tour to see our medical cannabis counter and patient lobby.</p>
+		<a href="http://dev.telegraphhealth.com/index.php/tour/?___SID=U" class="go">Learn more</a></a>
+
+	</div>
+</div>

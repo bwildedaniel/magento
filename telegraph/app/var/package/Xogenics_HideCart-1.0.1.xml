@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Xogenics_HideCart</name>
+    <version>1.0.1</version>
+    <stability>stable</stability>
+    <license>OSL v3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Hide Cart is a great little extension that enables users to hide the shopping cart block in case the cart is empty. You may also choose to hide the shopping cart block completely.</summary>
+    <description>Space is scarce on your shop! Overloading your customers with information will cost you orders, especially when they&#x2019;re bombed by irrelevant information! Who needs to see a shopping cart when there are no products added to it? So we figured; let&#x2019;s hide the cart when it&#x2019;s empty and show it only when it is relevant! And then we figured; why don&#x2019;t we share this feature with the community.. for free!?</description>
+    <notes>This extension is developed on magento version 1.4.2, stabile version</notes>
+    <authors><author><name>Miroslav Pavkovic</name><user>auto-converted</user><email>ms.pavkovic@levi9.com</email></author></authors>
+    <date>2011-10-05</date>
+    <time>10:16:32</time>
+    <contents><target name="mageskin"><dir name="adminhtml"><dir name="default"><dir name="default"><dir name="images"><dir name="xogenics"><file name="xogenics_logo_full_72ppi.png" hash="92fe62378d1e07b3fcf0afadcd72bc82"/></dir></dir></dir></dir></dir></target><target name="magedesign"><dir name="adminhtml"><dir name="default"><dir name="default"><dir name="template"><dir name="hideshoppingcart"><file name="global.phtml" hash="09a50aa8ead866b94444c142dd28d013"/></dir></dir></dir></dir></dir><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><file name="hideshoppingcart.xml " hash="8fd715398660d645665ff9f06a73e0a1"/></dir><dir name="template"><dir name="hideshoppingcart"><file name="sidebar.phtml" hash="080a83887574eb272e47e89bc250c6b6"/></dir></dir></dir></dir></dir></target><target name="magelocale"><dir name="en_US"><file name="Xogenics_HideShoppingCart.csv" hash="663693c13bd38db79bb774ab3bc69dad"/></dir><dir name="nl_NL"><file name="Xogenics_HideShoppingCart.csv" hash="60bbeb9cb742b0292e4cb2f645c88eed"/></dir><dir name="sr_RS"><file name="Xogenics_HideShoppingCart.csv" hash="0564c3cd50b57a562abe194722a249d0"/></dir></target><target name="mageetc"><dir name="modules"><file name="Xogenics_HideShoppingCart.xml" hash="41f7306540a9b9a913ab379aefe321e9"/></dir></target><target name="magecommunity"><dir name="Xogenics"><dir name="HideShoppingCart"><dir name="Block"><dir name="Adminhtml"><dir name="Fieldset"><dir name="System"><dir name="Logo"><file name="Global.php" hash="b74770c18e22b3e7694f4664ef4d1408"/></dir></dir></dir></dir></dir><dir name="etc"><file name="config.xml" hash="5dec628d2792a0d3838f5949dd6286e4"/><file name="system.xml" hash="b3fbb8f03592f2000adaf09de62e77e2"/></dir><dir name="Helper"><file name="Data.php" hash="6bab9a502463d8bef8aaf087aac1c30d"/></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><package><name></name><channel>community</channel><min></min><max></max></package></required></dependencies>
+</package>

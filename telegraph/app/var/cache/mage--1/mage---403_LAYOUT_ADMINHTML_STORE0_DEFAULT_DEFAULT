@@ -3109,6 +3109,42 @@
       <block type="currencysymbol/adminhtml_system_currencysymbol" name="mage.system.currencysymbol" template="currencysymbol/grid.phtml"/>
    </reference>
 </adminhtml_system_currencysymbol_index>
+<adminhtml_checkout_admin_index>
+   <reference name="content">
+      <block type="bricks_checkout/adminhtml_steps" name="checkout_steps"/>
+   </reference>
+</adminhtml_checkout_admin_index>
+<adminhtml_checkout_admin_edit>
+   <reference name="left">
+      <block type="bricks_checkout/adminhtml_tabs" name="admin.bricks.checkout.steps.tabs"/>
+   </reference>
+   <reference name="content">
+      <block type="bricks_checkout/adminhtml_edit" name="admin.bricks.checkout.steps.edit"/>
+   </reference>
+</adminhtml_checkout_admin_edit>
+<adminhtml_checkout_admin_grid>
+   <block type="core/text_list" name="root" output="toHtml">
+      <block type="bricks_checkout/adminhtml_grid" name="admin.bricks.checkout.steps"/>
+   </block>
+</adminhtml_checkout_admin_grid>
+<adminhtml_checkout_admin_fields>
+   <reference name="left">
+      <block type="bricks_checkout/adminhtml_tabs" name="admin.bricks.checkout.steps.tabs"/>
+   </reference>
+   <reference name="content">
+      <block type="bricks_checkout/adminhtml_edit_fields" name="admin.bricks.checkout.steps.fields" template="bricks/checkout/fields.phtml">
+         <block type="bricks_checkout/adminhtml_edit_fields_field" name="fields" template="bricks/checkout/field.phtml"/>
+      </block>
+   </reference>
+</adminhtml_checkout_admin_fields>
+<adminhtml_sales_order_view>
+   <reference name="sales_order_tabs">
+      <action method="addTab">
+         <name>custom_steps_data</name>
+         <block>bricks_checkout/adminhtml_order_data</block>
+      </action>
+   </reference>
+</adminhtml_sales_order_view>
 <adminhtml_customerattribute_index>
    <reference name="content">
       <block type="clarion_customerattribute/adminhtml_customerattribute" name="customerattribute.grid.container"/>
