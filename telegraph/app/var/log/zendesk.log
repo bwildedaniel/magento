@@ -3208,3 +3208,1123 @@
   'previous_page' => NULL,
   'count' => 0,
 )
+2016-07-14T22:19:14+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/users/me.json
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T22:19:14+00:00 DEBUG (7): array (
+  'user' => 
+  array (
+    'id' => 7631586288,
+    'url' => 'https://telegraphhealth.zendesk.com/api/v2/end_users/7631586288.json',
+    'name' => 'Telegraph Health support',
+    'email' => 'admin@telegraphhealth.com',
+    'created_at' => '2016-06-30T21:18:29Z',
+    'updated_at' => '2016-07-14T21:48:32Z',
+    'time_zone' => 'Pacific Time (US & Canada)',
+    'phone' => '(510) 808-5121',
+    'photo' => 
+    array (
+      'url' => 'https://telegraphhealth.zendesk.com/api/v2/attachments/376869087.json',
+      'id' => 376869087,
+      'file_name' => 'profile_image_7631586288_982755.png',
+      'content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755.png',
+      'mapped_content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755.png',
+      'content_type' => 'image/png',
+      'size' => 3070,
+      'width' => 80,
+      'height' => 80,
+      'inline' => false,
+      'thumbnails' => 
+      array (
+        0 => 
+        array (
+          'url' => 'https://telegraphhealth.zendesk.com/api/v2/attachments/376869167.json',
+          'id' => 376869167,
+          'file_name' => 'profile_image_7631586288_982755_thumb.png',
+          'content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755_thumb.png',
+          'mapped_content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755_thumb.png',
+          'content_type' => 'image/png',
+          'size' => 3038,
+          'width' => 32,
+          'height' => 32,
+          'inline' => false,
+        ),
+      ),
+    ),
+    'locale_id' => 1,
+    'locale' => 'en-US',
+    'organization_id' => NULL,
+    'role' => 'end-user',
+    'verified' => true,
+  ),
+)
+2016-07-14T22:19:14+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/groups.json?page=1
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T22:19:14+00:00 DEBUG (7): array (
+  'error' => 
+  array (
+    'title' => 'Forbidden',
+    'message' => 'You do not have access to this page. Please contact the account owner of this help desk for further help.',
+  ),
+)
+2016-07-14T22:19:14+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/search/incremental?query=type%3Aticket+&page=1&per_page=20&sort_order=desc&sort_by=created_at&include=users%2Cgroups
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T22:19:14+00:00 DEBUG (7): array (
+  'error' => 
+  array (
+    'title' => 'Forbidden',
+    'message' => 'You do not have access to this page. Please contact the account owner of this help desk for further help.',
+  ),
+)
+2016-07-14T22:19:14+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/views/active.json
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T22:19:15+00:00 DEBUG (7): array (
+  'error' => 
+  array (
+    'title' => 'Forbidden',
+    'message' => 'You do not have access to this page. Please contact the account owner of this help desk for further help.',
+  ),
+)
+2016-07-14T22:19:15+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/users/me.json
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T22:19:15+00:00 DEBUG (7): array (
+  'user' => 
+  array (
+    'id' => 7631586288,
+    'url' => 'https://telegraphhealth.zendesk.com/api/v2/end_users/7631586288.json',
+    'name' => 'Telegraph Health support',
+    'email' => 'admin@telegraphhealth.com',
+    'created_at' => '2016-06-30T21:18:29Z',
+    'updated_at' => '2016-07-14T22:19:14Z',
+    'time_zone' => 'Pacific Time (US & Canada)',
+    'phone' => '(510) 808-5121',
+    'photo' => 
+    array (
+      'url' => 'https://telegraphhealth.zendesk.com/api/v2/attachments/376869087.json',
+      'id' => 376869087,
+      'file_name' => 'profile_image_7631586288_982755.png',
+      'content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755.png',
+      'mapped_content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755.png',
+      'content_type' => 'image/png',
+      'size' => 3070,
+      'width' => 80,
+      'height' => 80,
+      'inline' => false,
+      'thumbnails' => 
+      array (
+        0 => 
+        array (
+          'url' => 'https://telegraphhealth.zendesk.com/api/v2/attachments/376869167.json',
+          'id' => 376869167,
+          'file_name' => 'profile_image_7631586288_982755_thumb.png',
+          'content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755_thumb.png',
+          'mapped_content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755_thumb.png',
+          'content_type' => 'image/png',
+          'size' => 3038,
+          'width' => 32,
+          'height' => 32,
+          'inline' => false,
+        ),
+      ),
+    ),
+    'locale_id' => 1,
+    'locale' => 'en-US',
+    'organization_id' => NULL,
+    'role' => 'end-user',
+    'verified' => true,
+  ),
+)
+2016-07-14T22:19:16+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/search/incremental?query=type%3Aticket+&page=1&per_page=20&sort_order=desc&sort_by=created_at&include=users%2Cgroups
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T22:19:17+00:00 DEBUG (7): array (
+  'error' => 
+  array (
+    'title' => 'Forbidden',
+    'message' => 'You do not have access to this page. Please contact the account owner of this help desk for further help.',
+  ),
+)
+2016-07-14T22:21:32+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/users/me.json
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T22:21:33+00:00 DEBUG (7): array (
+  'user' => 
+  array (
+    'id' => 7631586288,
+    'url' => 'https://telegraphhealth.zendesk.com/api/v2/end_users/7631586288.json',
+    'name' => 'Telegraph Health support',
+    'email' => 'admin@telegraphhealth.com',
+    'created_at' => '2016-06-30T21:18:29Z',
+    'updated_at' => '2016-07-14T22:19:14Z',
+    'time_zone' => 'Pacific Time (US & Canada)',
+    'phone' => '(510) 808-5121',
+    'photo' => 
+    array (
+      'url' => 'https://telegraphhealth.zendesk.com/api/v2/attachments/376869087.json',
+      'id' => 376869087,
+      'file_name' => 'profile_image_7631586288_982755.png',
+      'content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755.png',
+      'mapped_content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755.png',
+      'content_type' => 'image/png',
+      'size' => 3070,
+      'width' => 80,
+      'height' => 80,
+      'inline' => false,
+      'thumbnails' => 
+      array (
+        0 => 
+        array (
+          'url' => 'https://telegraphhealth.zendesk.com/api/v2/attachments/376869167.json',
+          'id' => 376869167,
+          'file_name' => 'profile_image_7631586288_982755_thumb.png',
+          'content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755_thumb.png',
+          'mapped_content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755_thumb.png',
+          'content_type' => 'image/png',
+          'size' => 3038,
+          'width' => 32,
+          'height' => 32,
+          'inline' => false,
+        ),
+      ),
+    ),
+    'locale_id' => 1,
+    'locale' => 'en-US',
+    'organization_id' => NULL,
+    'role' => 'end-user',
+    'verified' => true,
+  ),
+)
+2016-07-14T22:21:33+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/search/incremental?query=type%3Aticket+&page=1&per_page=20&sort_order=desc&sort_by=created_at&include=users%2Cgroups
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T22:21:33+00:00 DEBUG (7): array (
+  'error' => 
+  array (
+    'title' => 'Forbidden',
+    'message' => 'You do not have access to this page. Please contact the account owner of this help desk for further help.',
+  ),
+)
+2016-07-14T22:21:33+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/views/active.json
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T22:21:33+00:00 DEBUG (7): array (
+  'error' => 
+  array (
+    'title' => 'Forbidden',
+    'message' => 'You do not have access to this page. Please contact the account owner of this help desk for further help.',
+  ),
+)
+2016-07-14T22:21:33+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/users/me.json
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T22:21:33+00:00 DEBUG (7): array (
+  'user' => 
+  array (
+    'id' => 7631586288,
+    'url' => 'https://telegraphhealth.zendesk.com/api/v2/end_users/7631586288.json',
+    'name' => 'Telegraph Health support',
+    'email' => 'admin@telegraphhealth.com',
+    'created_at' => '2016-06-30T21:18:29Z',
+    'updated_at' => '2016-07-14T22:19:14Z',
+    'time_zone' => 'Pacific Time (US & Canada)',
+    'phone' => '(510) 808-5121',
+    'photo' => 
+    array (
+      'url' => 'https://telegraphhealth.zendesk.com/api/v2/attachments/376869087.json',
+      'id' => 376869087,
+      'file_name' => 'profile_image_7631586288_982755.png',
+      'content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755.png',
+      'mapped_content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755.png',
+      'content_type' => 'image/png',
+      'size' => 3070,
+      'width' => 80,
+      'height' => 80,
+      'inline' => false,
+      'thumbnails' => 
+      array (
+        0 => 
+        array (
+          'url' => 'https://telegraphhealth.zendesk.com/api/v2/attachments/376869167.json',
+          'id' => 376869167,
+          'file_name' => 'profile_image_7631586288_982755_thumb.png',
+          'content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755_thumb.png',
+          'mapped_content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755_thumb.png',
+          'content_type' => 'image/png',
+          'size' => 3038,
+          'width' => 32,
+          'height' => 32,
+          'inline' => false,
+        ),
+      ),
+    ),
+    'locale_id' => 1,
+    'locale' => 'en-US',
+    'organization_id' => NULL,
+    'role' => 'end-user',
+    'verified' => true,
+  ),
+)
+2016-07-14T22:21:36+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/search/incremental?query=type%3Aticket+&page=1&per_page=20&sort_order=desc&sort_by=created_at&include=users%2Cgroups
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T22:21:36+00:00 DEBUG (7): array (
+  'error' => 
+  array (
+    'title' => 'Forbidden',
+    'message' => 'You do not have access to this page. Please contact the account owner of this help desk for further help.',
+  ),
+)
+2016-07-14T22:25:43+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/users/me.json
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T22:25:43+00:00 DEBUG (7): array (
+  'user' => 
+  array (
+    'id' => 7631586288,
+    'url' => 'https://telegraphhealth.zendesk.com/api/v2/end_users/7631586288.json',
+    'name' => 'Telegraph Health support',
+    'email' => 'admin@telegraphhealth.com',
+    'created_at' => '2016-06-30T21:18:29Z',
+    'updated_at' => '2016-07-14T22:19:14Z',
+    'time_zone' => 'Pacific Time (US & Canada)',
+    'phone' => '(510) 808-5121',
+    'photo' => 
+    array (
+      'url' => 'https://telegraphhealth.zendesk.com/api/v2/attachments/376869087.json',
+      'id' => 376869087,
+      'file_name' => 'profile_image_7631586288_982755.png',
+      'content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755.png',
+      'mapped_content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755.png',
+      'content_type' => 'image/png',
+      'size' => 3070,
+      'width' => 80,
+      'height' => 80,
+      'inline' => false,
+      'thumbnails' => 
+      array (
+        0 => 
+        array (
+          'url' => 'https://telegraphhealth.zendesk.com/api/v2/attachments/376869167.json',
+          'id' => 376869167,
+          'file_name' => 'profile_image_7631586288_982755_thumb.png',
+          'content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755_thumb.png',
+          'mapped_content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755_thumb.png',
+          'content_type' => 'image/png',
+          'size' => 3038,
+          'width' => 32,
+          'height' => 32,
+          'inline' => false,
+        ),
+      ),
+    ),
+    'locale_id' => 1,
+    'locale' => 'en-US',
+    'organization_id' => NULL,
+    'role' => 'end-user',
+    'verified' => true,
+  ),
+)
+2016-07-14T22:25:43+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/search/incremental?query=type%3Aticket+&page=1&per_page=20&sort_order=desc&sort_by=created_at&include=users%2Cgroups
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T22:25:43+00:00 DEBUG (7): array (
+  'error' => 
+  array (
+    'title' => 'Forbidden',
+    'message' => 'You do not have access to this page. Please contact the account owner of this help desk for further help.',
+  ),
+)
+2016-07-14T22:25:43+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/views/active.json
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T22:25:43+00:00 DEBUG (7): array (
+  'error' => 
+  array (
+    'title' => 'Forbidden',
+    'message' => 'You do not have access to this page. Please contact the account owner of this help desk for further help.',
+  ),
+)
+2016-07-14T22:25:43+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/users/me.json
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T22:25:44+00:00 DEBUG (7): array (
+  'user' => 
+  array (
+    'id' => 7631586288,
+    'url' => 'https://telegraphhealth.zendesk.com/api/v2/end_users/7631586288.json',
+    'name' => 'Telegraph Health support',
+    'email' => 'admin@telegraphhealth.com',
+    'created_at' => '2016-06-30T21:18:29Z',
+    'updated_at' => '2016-07-14T22:19:14Z',
+    'time_zone' => 'Pacific Time (US & Canada)',
+    'phone' => '(510) 808-5121',
+    'photo' => 
+    array (
+      'url' => 'https://telegraphhealth.zendesk.com/api/v2/attachments/376869087.json',
+      'id' => 376869087,
+      'file_name' => 'profile_image_7631586288_982755.png',
+      'content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755.png',
+      'mapped_content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755.png',
+      'content_type' => 'image/png',
+      'size' => 3070,
+      'width' => 80,
+      'height' => 80,
+      'inline' => false,
+      'thumbnails' => 
+      array (
+        0 => 
+        array (
+          'url' => 'https://telegraphhealth.zendesk.com/api/v2/attachments/376869167.json',
+          'id' => 376869167,
+          'file_name' => 'profile_image_7631586288_982755_thumb.png',
+          'content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755_thumb.png',
+          'mapped_content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755_thumb.png',
+          'content_type' => 'image/png',
+          'size' => 3038,
+          'width' => 32,
+          'height' => 32,
+          'inline' => false,
+        ),
+      ),
+    ),
+    'locale_id' => 1,
+    'locale' => 'en-US',
+    'organization_id' => NULL,
+    'role' => 'end-user',
+    'verified' => true,
+  ),
+)
+2016-07-14T22:25:46+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/search/incremental?query=type%3Aticket+&page=1&per_page=20&sort_order=desc&sort_by=created_at&include=users%2Cgroups
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T22:25:46+00:00 DEBUG (7): array (
+  'error' => 
+  array (
+    'title' => 'Forbidden',
+    'message' => 'You do not have access to this page. Please contact the account owner of this help desk for further help.',
+  ),
+)
+2016-07-14T22:26:06+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/users/me.json
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T22:26:07+00:00 DEBUG (7): array (
+  'user' => 
+  array (
+    'id' => 7631586288,
+    'url' => 'https://telegraphhealth.zendesk.com/api/v2/end_users/7631586288.json',
+    'name' => 'Telegraph Health support',
+    'email' => 'admin@telegraphhealth.com',
+    'created_at' => '2016-06-30T21:18:29Z',
+    'updated_at' => '2016-07-14T22:19:14Z',
+    'time_zone' => 'Pacific Time (US & Canada)',
+    'phone' => '(510) 808-5121',
+    'photo' => 
+    array (
+      'url' => 'https://telegraphhealth.zendesk.com/api/v2/attachments/376869087.json',
+      'id' => 376869087,
+      'file_name' => 'profile_image_7631586288_982755.png',
+      'content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755.png',
+      'mapped_content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755.png',
+      'content_type' => 'image/png',
+      'size' => 3070,
+      'width' => 80,
+      'height' => 80,
+      'inline' => false,
+      'thumbnails' => 
+      array (
+        0 => 
+        array (
+          'url' => 'https://telegraphhealth.zendesk.com/api/v2/attachments/376869167.json',
+          'id' => 376869167,
+          'file_name' => 'profile_image_7631586288_982755_thumb.png',
+          'content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755_thumb.png',
+          'mapped_content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755_thumb.png',
+          'content_type' => 'image/png',
+          'size' => 3038,
+          'width' => 32,
+          'height' => 32,
+          'inline' => false,
+        ),
+      ),
+    ),
+    'locale_id' => 1,
+    'locale' => 'en-US',
+    'organization_id' => NULL,
+    'role' => 'end-user',
+    'verified' => true,
+  ),
+)
+2016-07-14T22:26:07+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/search/incremental?query=type%3Aticket+&page=1&per_page=20&sort_order=desc&sort_by=created_at&include=users%2Cgroups
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T22:26:07+00:00 DEBUG (7): array (
+  'error' => 
+  array (
+    'title' => 'Forbidden',
+    'message' => 'You do not have access to this page. Please contact the account owner of this help desk for further help.',
+  ),
+)
+2016-07-14T22:26:07+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/views/active.json
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T22:26:07+00:00 DEBUG (7): array (
+  'error' => 
+  array (
+    'title' => 'Forbidden',
+    'message' => 'You do not have access to this page. Please contact the account owner of this help desk for further help.',
+  ),
+)
+2016-07-14T22:26:07+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/users/me.json
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T22:26:08+00:00 DEBUG (7): array (
+  'user' => 
+  array (
+    'id' => 7631586288,
+    'url' => 'https://telegraphhealth.zendesk.com/api/v2/end_users/7631586288.json',
+    'name' => 'Telegraph Health support',
+    'email' => 'admin@telegraphhealth.com',
+    'created_at' => '2016-06-30T21:18:29Z',
+    'updated_at' => '2016-07-14T22:19:14Z',
+    'time_zone' => 'Pacific Time (US & Canada)',
+    'phone' => '(510) 808-5121',
+    'photo' => 
+    array (
+      'url' => 'https://telegraphhealth.zendesk.com/api/v2/attachments/376869087.json',
+      'id' => 376869087,
+      'file_name' => 'profile_image_7631586288_982755.png',
+      'content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755.png',
+      'mapped_content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755.png',
+      'content_type' => 'image/png',
+      'size' => 3070,
+      'width' => 80,
+      'height' => 80,
+      'inline' => false,
+      'thumbnails' => 
+      array (
+        0 => 
+        array (
+          'url' => 'https://telegraphhealth.zendesk.com/api/v2/attachments/376869167.json',
+          'id' => 376869167,
+          'file_name' => 'profile_image_7631586288_982755_thumb.png',
+          'content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755_thumb.png',
+          'mapped_content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755_thumb.png',
+          'content_type' => 'image/png',
+          'size' => 3038,
+          'width' => 32,
+          'height' => 32,
+          'inline' => false,
+        ),
+      ),
+    ),
+    'locale_id' => 1,
+    'locale' => 'en-US',
+    'organization_id' => NULL,
+    'role' => 'end-user',
+    'verified' => true,
+  ),
+)
+2016-07-14T22:26:08+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/search/incremental?query=type%3Aticket+&page=1&per_page=20&sort_order=desc&sort_by=created_at&include=users%2Cgroups
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T22:26:08+00:00 DEBUG (7): array (
+  'error' => 
+  array (
+    'title' => 'Forbidden',
+    'message' => 'You do not have access to this page. Please contact the account owner of this help desk for further help.',
+  ),
+)
+2016-07-14T22:28:13+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/users/me.json
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T22:28:13+00:00 DEBUG (7): array (
+  'user' => 
+  array (
+    'id' => 7631586288,
+    'url' => 'https://telegraphhealth.zendesk.com/api/v2/end_users/7631586288.json',
+    'name' => 'Telegraph Health support',
+    'email' => 'admin@telegraphhealth.com',
+    'created_at' => '2016-06-30T21:18:29Z',
+    'updated_at' => '2016-07-14T22:19:14Z',
+    'time_zone' => 'Pacific Time (US & Canada)',
+    'phone' => '(510) 808-5121',
+    'photo' => 
+    array (
+      'url' => 'https://telegraphhealth.zendesk.com/api/v2/attachments/376869087.json',
+      'id' => 376869087,
+      'file_name' => 'profile_image_7631586288_982755.png',
+      'content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755.png',
+      'mapped_content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755.png',
+      'content_type' => 'image/png',
+      'size' => 3070,
+      'width' => 80,
+      'height' => 80,
+      'inline' => false,
+      'thumbnails' => 
+      array (
+        0 => 
+        array (
+          'url' => 'https://telegraphhealth.zendesk.com/api/v2/attachments/376869167.json',
+          'id' => 376869167,
+          'file_name' => 'profile_image_7631586288_982755_thumb.png',
+          'content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755_thumb.png',
+          'mapped_content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755_thumb.png',
+          'content_type' => 'image/png',
+          'size' => 3038,
+          'width' => 32,
+          'height' => 32,
+          'inline' => false,
+        ),
+      ),
+    ),
+    'locale_id' => 1,
+    'locale' => 'en-US',
+    'organization_id' => NULL,
+    'role' => 'end-user',
+    'verified' => true,
+  ),
+)
+2016-07-14T22:28:13+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/search/incremental?query=type%3Aticket+&page=1&per_page=20&sort_order=desc&sort_by=created_at&include=users%2Cgroups
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T22:28:13+00:00 DEBUG (7): array (
+  'error' => 
+  array (
+    'title' => 'Forbidden',
+    'message' => 'You do not have access to this page. Please contact the account owner of this help desk for further help.',
+  ),
+)
+2016-07-14T22:28:13+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/views/active.json
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T22:28:14+00:00 DEBUG (7): array (
+  'error' => 
+  array (
+    'title' => 'Forbidden',
+    'message' => 'You do not have access to this page. Please contact the account owner of this help desk for further help.',
+  ),
+)
+2016-07-14T22:28:14+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/users/me.json
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T22:28:14+00:00 DEBUG (7): array (
+  'user' => 
+  array (
+    'id' => 7631586288,
+    'url' => 'https://telegraphhealth.zendesk.com/api/v2/end_users/7631586288.json',
+    'name' => 'Telegraph Health support',
+    'email' => 'admin@telegraphhealth.com',
+    'created_at' => '2016-06-30T21:18:29Z',
+    'updated_at' => '2016-07-14T22:19:14Z',
+    'time_zone' => 'Pacific Time (US & Canada)',
+    'phone' => '(510) 808-5121',
+    'photo' => 
+    array (
+      'url' => 'https://telegraphhealth.zendesk.com/api/v2/attachments/376869087.json',
+      'id' => 376869087,
+      'file_name' => 'profile_image_7631586288_982755.png',
+      'content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755.png',
+      'mapped_content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755.png',
+      'content_type' => 'image/png',
+      'size' => 3070,
+      'width' => 80,
+      'height' => 80,
+      'inline' => false,
+      'thumbnails' => 
+      array (
+        0 => 
+        array (
+          'url' => 'https://telegraphhealth.zendesk.com/api/v2/attachments/376869167.json',
+          'id' => 376869167,
+          'file_name' => 'profile_image_7631586288_982755_thumb.png',
+          'content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755_thumb.png',
+          'mapped_content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755_thumb.png',
+          'content_type' => 'image/png',
+          'size' => 3038,
+          'width' => 32,
+          'height' => 32,
+          'inline' => false,
+        ),
+      ),
+    ),
+    'locale_id' => 1,
+    'locale' => 'en-US',
+    'organization_id' => NULL,
+    'role' => 'end-user',
+    'verified' => true,
+  ),
+)
+2016-07-14T22:28:14+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/search/incremental?query=type%3Aticket+&page=1&per_page=20&sort_order=desc&sort_by=created_at&include=users%2Cgroups
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T22:28:15+00:00 DEBUG (7): array (
+  'error' => 
+  array (
+    'title' => 'Forbidden',
+    'message' => 'You do not have access to this page. Please contact the account owner of this help desk for further help.',
+  ),
+)
+2016-07-14T23:34:50+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/users/me.json
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T23:34:51+00:00 DEBUG (7): array (
+  'user' => 
+  array (
+    'id' => 7631586288,
+    'url' => 'https://telegraphhealth.zendesk.com/api/v2/end_users/7631586288.json',
+    'name' => 'Telegraph Health support',
+    'email' => 'admin@telegraphhealth.com',
+    'created_at' => '2016-06-30T21:18:29Z',
+    'updated_at' => '2016-07-14T22:19:14Z',
+    'time_zone' => 'Pacific Time (US & Canada)',
+    'phone' => '(510) 808-5121',
+    'photo' => 
+    array (
+      'url' => 'https://telegraphhealth.zendesk.com/api/v2/attachments/376869087.json',
+      'id' => 376869087,
+      'file_name' => 'profile_image_7631586288_982755.png',
+      'content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755.png',
+      'mapped_content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755.png',
+      'content_type' => 'image/png',
+      'size' => 3070,
+      'width' => 80,
+      'height' => 80,
+      'inline' => false,
+      'thumbnails' => 
+      array (
+        0 => 
+        array (
+          'url' => 'https://telegraphhealth.zendesk.com/api/v2/attachments/376869167.json',
+          'id' => 376869167,
+          'file_name' => 'profile_image_7631586288_982755_thumb.png',
+          'content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755_thumb.png',
+          'mapped_content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755_thumb.png',
+          'content_type' => 'image/png',
+          'size' => 3038,
+          'width' => 32,
+          'height' => 32,
+          'inline' => false,
+        ),
+      ),
+    ),
+    'locale_id' => 1,
+    'locale' => 'en-US',
+    'organization_id' => NULL,
+    'role' => 'end-user',
+    'verified' => true,
+  ),
+)
+2016-07-14T23:34:51+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/groups.json?page=1
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T23:34:51+00:00 DEBUG (7): array (
+  'error' => 
+  array (
+    'title' => 'Forbidden',
+    'message' => 'You do not have access to this page. Please contact the account owner of this help desk for further help.',
+  ),
+)
+2016-07-14T23:34:51+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/search/incremental?query=type%3Aticket+&page=1&per_page=20&sort_order=desc&sort_by=created_at&include=users%2Cgroups
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T23:34:51+00:00 DEBUG (7): array (
+  'error' => 
+  array (
+    'title' => 'Forbidden',
+    'message' => 'You do not have access to this page. Please contact the account owner of this help desk for further help.',
+  ),
+)
+2016-07-14T23:34:51+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/views/active.json
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T23:34:51+00:00 DEBUG (7): array (
+  'error' => 
+  array (
+    'title' => 'Forbidden',
+    'message' => 'You do not have access to this page. Please contact the account owner of this help desk for further help.',
+  ),
+)
+2016-07-14T23:34:51+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/users/me.json
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T23:34:52+00:00 DEBUG (7): array (
+  'user' => 
+  array (
+    'id' => 7631586288,
+    'url' => 'https://telegraphhealth.zendesk.com/api/v2/end_users/7631586288.json',
+    'name' => 'Telegraph Health support',
+    'email' => 'admin@telegraphhealth.com',
+    'created_at' => '2016-06-30T21:18:29Z',
+    'updated_at' => '2016-07-14T23:34:51Z',
+    'time_zone' => 'Pacific Time (US & Canada)',
+    'phone' => '(510) 808-5121',
+    'photo' => 
+    array (
+      'url' => 'https://telegraphhealth.zendesk.com/api/v2/attachments/376869087.json',
+      'id' => 376869087,
+      'file_name' => 'profile_image_7631586288_982755.png',
+      'content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755.png',
+      'mapped_content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755.png',
+      'content_type' => 'image/png',
+      'size' => 3070,
+      'width' => 80,
+      'height' => 80,
+      'inline' => false,
+      'thumbnails' => 
+      array (
+        0 => 
+        array (
+          'url' => 'https://telegraphhealth.zendesk.com/api/v2/attachments/376869167.json',
+          'id' => 376869167,
+          'file_name' => 'profile_image_7631586288_982755_thumb.png',
+          'content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755_thumb.png',
+          'mapped_content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755_thumb.png',
+          'content_type' => 'image/png',
+          'size' => 3038,
+          'width' => 32,
+          'height' => 32,
+          'inline' => false,
+        ),
+      ),
+    ),
+    'locale_id' => 1,
+    'locale' => 'en-US',
+    'organization_id' => NULL,
+    'role' => 'end-user',
+    'verified' => true,
+  ),
+)
+2016-07-14T23:34:53+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/search/incremental?query=type%3Aticket+&page=1&per_page=20&sort_order=desc&sort_by=created_at&include=users%2Cgroups
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T23:34:53+00:00 DEBUG (7): array (
+  'error' => 
+  array (
+    'title' => 'Forbidden',
+    'message' => 'You do not have access to this page. Please contact the account owner of this help desk for further help.',
+  ),
+)
+2016-07-14T23:56:14+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/users/search.json?query=demo%40customer.com&per_page=30
+    [method] => GET
+    [data] => null
+)
+
+2016-07-14T23:56:14+00:00 DEBUG (7): array (
+  'error' => 
+  array (
+    'title' => 'Forbidden',
+    'message' => 'You do not have access to this page. Please contact the account owner of this help desk for further help.',
+  ),
+)
+2016-07-14T23:56:14+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/users.json
+    [method] => POST
+    [data] => {"user":{"name":"Demo Customer","email":"demo@customer.com","user_fields":{"group":"General","name":"Demo Customer","id":"3","logged_in":"","average_sale":0,"lifetime_sale":0},"verified":true}}
+)
+
+2016-07-14T23:56:14+00:00 DEBUG (7): array (
+  'error' => 
+  array (
+    'title' => 'Forbidden',
+    'message' => 'You do not have access to this page. Please contact the account owner of this help desk for further help.',
+  ),
+)
+2016-07-15T00:21:02+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/users/me.json
+    [method] => GET
+    [data] => null
+)
+
+2016-07-15T00:21:02+00:00 DEBUG (7): array (
+  'user' => 
+  array (
+    'id' => 7631586288,
+    'url' => 'https://telegraphhealth.zendesk.com/api/v2/end_users/7631586288.json',
+    'name' => 'Telegraph Health support',
+    'email' => 'admin@telegraphhealth.com',
+    'created_at' => '2016-06-30T21:18:29Z',
+    'updated_at' => '2016-07-14T23:56:14Z',
+    'time_zone' => 'Pacific Time (US & Canada)',
+    'phone' => '(510) 808-5121',
+    'photo' => 
+    array (
+      'url' => 'https://telegraphhealth.zendesk.com/api/v2/attachments/376869087.json',
+      'id' => 376869087,
+      'file_name' => 'profile_image_7631586288_982755.png',
+      'content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755.png',
+      'mapped_content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755.png',
+      'content_type' => 'image/png',
+      'size' => 3070,
+      'width' => 80,
+      'height' => 80,
+      'inline' => false,
+      'thumbnails' => 
+      array (
+        0 => 
+        array (
+          'url' => 'https://telegraphhealth.zendesk.com/api/v2/attachments/376869167.json',
+          'id' => 376869167,
+          'file_name' => 'profile_image_7631586288_982755_thumb.png',
+          'content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755_thumb.png',
+          'mapped_content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755_thumb.png',
+          'content_type' => 'image/png',
+          'size' => 3038,
+          'width' => 32,
+          'height' => 32,
+          'inline' => false,
+        ),
+      ),
+    ),
+    'locale_id' => 1,
+    'locale' => 'en-US',
+    'organization_id' => NULL,
+    'role' => 'end-user',
+    'verified' => true,
+  ),
+)
+2016-07-15T00:21:02+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/groups.json?page=1
+    [method] => GET
+    [data] => null
+)
+
+2016-07-15T00:21:02+00:00 DEBUG (7): array (
+  'error' => 
+  array (
+    'title' => 'Forbidden',
+    'message' => 'You do not have access to this page. Please contact the account owner of this help desk for further help.',
+  ),
+)
+2016-07-15T00:21:02+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/search/incremental?query=type%3Aticket+&page=1&per_page=20&sort_order=desc&sort_by=created_at&include=users%2Cgroups
+    [method] => GET
+    [data] => null
+)
+
+2016-07-15T00:21:03+00:00 DEBUG (7): array (
+  'error' => 
+  array (
+    'title' => 'Forbidden',
+    'message' => 'You do not have access to this page. Please contact the account owner of this help desk for further help.',
+  ),
+)
+2016-07-15T00:21:03+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/views/active.json
+    [method] => GET
+    [data] => null
+)
+
+2016-07-15T00:21:03+00:00 DEBUG (7): array (
+  'error' => 
+  array (
+    'title' => 'Forbidden',
+    'message' => 'You do not have access to this page. Please contact the account owner of this help desk for further help.',
+  ),
+)
+2016-07-15T00:21:03+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/users/me.json
+    [method] => GET
+    [data] => null
+)
+
+2016-07-15T00:21:03+00:00 DEBUG (7): array (
+  'user' => 
+  array (
+    'id' => 7631586288,
+    'url' => 'https://telegraphhealth.zendesk.com/api/v2/end_users/7631586288.json',
+    'name' => 'Telegraph Health support',
+    'email' => 'admin@telegraphhealth.com',
+    'created_at' => '2016-06-30T21:18:29Z',
+    'updated_at' => '2016-07-15T00:21:02Z',
+    'time_zone' => 'Pacific Time (US & Canada)',
+    'phone' => '(510) 808-5121',
+    'photo' => 
+    array (
+      'url' => 'https://telegraphhealth.zendesk.com/api/v2/attachments/376869087.json',
+      'id' => 376869087,
+      'file_name' => 'profile_image_7631586288_982755.png',
+      'content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755.png',
+      'mapped_content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755.png',
+      'content_type' => 'image/png',
+      'size' => 3070,
+      'width' => 80,
+      'height' => 80,
+      'inline' => false,
+      'thumbnails' => 
+      array (
+        0 => 
+        array (
+          'url' => 'https://telegraphhealth.zendesk.com/api/v2/attachments/376869167.json',
+          'id' => 376869167,
+          'file_name' => 'profile_image_7631586288_982755_thumb.png',
+          'content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755_thumb.png',
+          'mapped_content_url' => 'https://telegraphhealth.zendesk.com/system/photos/0003/7686/9087/profile_image_7631586288_982755_thumb.png',
+          'content_type' => 'image/png',
+          'size' => 3038,
+          'width' => 32,
+          'height' => 32,
+          'inline' => false,
+        ),
+      ),
+    ),
+    'locale_id' => 1,
+    'locale' => 'en-US',
+    'organization_id' => NULL,
+    'role' => 'end-user',
+    'verified' => true,
+  ),
+)
+2016-07-15T00:21:04+00:00 DEBUG (7): Array
+(
+    [url] => https://telegraphhealth.zendesk.com/api/v2/search/incremental?query=type%3Aticket+&page=1&per_page=20&sort_order=desc&sort_by=created_at&include=users%2Cgroups
+    [method] => GET
+    [data] => null
+)
+
+2016-07-15T00:21:04+00:00 DEBUG (7): array (
+  'error' => 
+  array (
+    'title' => 'Forbidden',
+    'message' => 'You do not have access to this page. Please contact the account owner of this help desk for further help.',
+  ),
+)
